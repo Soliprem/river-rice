@@ -1,2 +1,2 @@
-#River-Rice
+# River-Rice
 This is just my river dotfiles. Enjoy!
