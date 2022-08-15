@@ -1,0 +1,120 @@
+{
+        "gtk-layer-shell": false,
+	"layer": "top",
+	"modules-left": ["custom/launcher","cpu","custom/media","memory"],
+	"modules-center": ["river/tags"],
+	"modules-right": ["tray","pulseaudio", "network", "clock","custom/power"],
+	
+	"pulseaudio": {
+               "tooltip": false,
+               "scroll-step": 5,
+               "format": " {icon} {volume}%",
+               "format-muted": " 婢 {volume}%",
+               "format-icons": {
+                "default": ["奄", "奔", "墳"]
+              },
+              "on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle"
+	},
+        "river/tags": {
+                    "num-tags": 9,
+        },
+        "wlr/workspaces": {
+          "sort-by-name": true,
+          "on-click": "activate",
+          "all-outputs": true,
+        },
+
+	"network": {
+		"tooltip": false,
+                "format": "{icon}",
+                "format-alt": "{ipaddr} {icon}",
+                "format-alt-click": "click-right",
+                "format-icons": {
+                  "wifi": [""],
+                  "ethernet": [""],
+                  "disconnected": ["睊"],
+                },
+                "on-click": "kitty -e nmtui",
+	},
+	"backlight": {
+	/*	"tooltip": false,
+		"format": " {}%",
+		"interval":1,
+        "on-scroll-up": "light -A 5",
+		"on-scroll-down": "light -U 5" */
+        "interval": 2,
+        "align": 0,
+        "rotate": 0,
+        "format": "{icon} {percent}%",
+        "format-icons": ["", "", "", ""],
+        "on-click": "",
+        "on-scroll-up": "light -A 5%",
+        "on-scroll-down": "light -U 5%",
+        "smooth-scrolling-threshold": 1,
+	},
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{time} {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+	"tray":{
+		"icon-size":18,
+		"spacing": 10
+	},
+    "clock": {
+        "format": "{: %I:%M %p }",
+        "format-alt": "{: %I:%M %p   %d/%m/%Y}"
+    },
+    "cpu": {
+        "interval": 15,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "memory": {
+        "interval": 30,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "custom/media": {
+        "interval": 30,
+        "format": "{icon} {}",
+        "return-type": "json",
+        "max-length": 20,
+        "format-icons": {
+            "spotify": " ",
+            "default": " "
+        },
+        "escape": true,
+        "exec": "~/.config/waybar/mediaplayer.py",
+        "on-click": "playerctl play-pause"
+    },
+    "custom/launcher":{
+        "format": " ",
+        "on-click": "rofi -show run",
+        "on-click-right": "killall rofi"
+    },
+    "custom/power":{
+        "format": "襤",
+        /* "on-click": "bash ~/.config/rofi/leave/leave.sh", */
+        /* "on-click":"rofi-powermenu" */
+        "on-click": "wlogout -p layer-shell"
+    },
+    "custom/updates":{
+        "format": "{} Update(s)",
+        "exec": "checkupdates | wc -l",
+        "exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",
+        "interval": 15,
+        "on-click": "kitty -e yay -Syu && notify-send 'The system has been updated' "
+    },
+    /*"custom/wallpaper":{
+        "format":" ",
+        "on-click": "bash ~/.config/system_scripts/pkill_bc"
+    }*/
+}
