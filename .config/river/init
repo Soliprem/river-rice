@@ -25,8 +25,8 @@ riverctl map -repeat normal $mod r spawn "foot btop"
 # Mod+E to start an instance of dolphin
 riverctl map normal $mod E spawn pcmanfm
 
-# Mod+W to start an instance of librewolf
-riverctl map normal $mod W spawn librewolf
+# Mod+W to start an instance of firefox
+riverctl map normal $mod W spawn firefox
 
 # Mod+X to start an instance of foot
 riverctl map -repeat normal $mod Return spawn foot
@@ -89,11 +89,39 @@ riverctl map-pointer normal $mod BTN_LEFT move-view
 # Mod + Right Mouse Button to resize views
 riverctl map-pointer normal $mod BTN_RIGHT resize-view
 
+
+#Sticky
+# all_tags=$(((1 << 32) - 1))
+# sticky_tag=$((1 << 31))
+# all_but_sticky_tag=$(( $all_tags ^ $sticky_tag ))
+#
+# riverctl map normal Super S toggle-view-tags $sticky_tag
+# riverctl spawn-tagmask ${all_but_sticky_tag}
+
+
+# The scratchpad will live on an unused tag. Which tags are used depends on your
+# config, but rivers default uses the first 9 tags.
+scratch_tag=$((1 << 20 ))
+
+# Toggle the scratchpad with Super+P
+riverctl map normal Super y toggle-focused-tags ${scratch_tag}
+
+# Send windows to the scratchpad with Super+Shift+P
+riverctl map normal Super+Shift y set-view-tags ${scratch_tag}
+
+# Set spawn tagmask to ensure new windows don't have the scratchpad tag unless
+# explicitly set.
+all_but_scratch_tag=$(( ((1 << 32) - 1) ^ scratch_tag ))
+riverctl spawn-tagmask ${all_but_scratch_tag}
+
+
+
 for i in $(seq 1 9); do
-	tags=$((1 << ($i - 1)))
+	tags=$((1 << (i - 1)))
 
 	# Mod+[1-9] to focus tag [0-8]
-	riverctl map normal $mod $i set-focused-tags $tags
+	# riverctl map normal $mod $i set-focused-tags $tags, modified to support sticky
+    riverctl map normal Super $i set-focused-tags $tags # (($sticky_tag + $tags))
 
 	# Mod+Shift+[1-9] to tag focused view with tag [0-8]
 	riverctl map normal $mod+Shift $i set-view-tags $tags
@@ -179,7 +207,7 @@ riverctl float-filter-add title "popup title with spaces"
 ## Autostart
 # Starts sound stuff
 riverctl spawn "pipewire"
-riverctl spawn "waybar"
+riverctl spawn "kill -HUP $(pidof waybar) &&  waybar"
 riverctl spawn "pipewire-pulse"
 riverctl spawn "wireplumber"
 # Sets wallpaper and launches bar
@@ -187,19 +215,21 @@ riverctl spawn "swaybg -i $HOME/.config/bg"
 # riverctl spawn "waybar"
 # Starts music player daemon and button support
 riverctl spawn "mpd"
-riverctl spawn "mpris-proxy"
-riverctl spawn "mpDris2"
 # Loads a random song so the bar module looks good
 riverctl spawn "sleep 1 && ransong"
 # Allows GUI programs to be run as root
 riverctl spawn "/usr/lib/xfce-polkit/xfce-polkit"
 # refresh rate
 riverctl spawn "wlr-randr --output HDMI-A-1 --mode 1920x1080@120Hz"
+# notifications
+riverctl spawn "dunst"
+riverctl spawn "blueman-applet"
+
 
 # Set and exec into the default layout generator, rivertile.
 # River will send the process group of the init executable SIGTERM on exit.
 riverctl default-layout rivertile
-# bash $HOME/.config/river/process.sh
+# bash "$HOME"/.config/river/process.sh
 # usage: import-gsettings
 config="${XDG_CONFIG_HOME:-$HOME/.config}/gtk-3.0/settings.ini"
 if [ ! -f "$config" ]; then exit 1; fi
