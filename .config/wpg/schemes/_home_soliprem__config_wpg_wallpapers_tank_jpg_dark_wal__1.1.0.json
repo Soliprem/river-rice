@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/tank.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111417",
+        "foreground": "#f5fcff",
+        "cursor": "#f5fcff"
+    },
+    "colors": {
+        "color0": "#111417",
+        "color1": "#887268",
+        "color2": "#72778A",
+        "color3": "#7C8397",
+        "color4": "#327389",
+        "color5": "#9097AB",
+        "color6": "#A9B4CB",
+        "color7": "#d4dae4",
+        "color8": "#262c33",
+        "color9": "#c08e77",
+        "color10": "#8391c3",
+        "color11": "#8fa1d6",
+        "color12": "#349bbe",
+        "color13": "#a6baf2",
+        "color14": "#c3e1ff",
+        "color15": "#f5fcff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/skeleton-using-pc.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f100f",
+        "foreground": "#fcfcfa",
+        "cursor": "#fcfcfa"
+    },
+    "colors": {
+        "color0": "#0f100f",
+        "color1": "#93926A",
+        "color2": "#616258",
+        "color3": "#C2AE7B",
+        "color4": "#72746F",
+        "color5": "#87877A",
+        "color6": "#777E7C",
+        "color7": "#c0c0bf",
+        "color8": "#272927",
+        "color9": "#cfcd79",
+        "color10": "#878b66",
+        "color11": "#ffeb8b",
+        "color12": "#97a581",
+        "color13": "#c0c08d",
+        "color14": "#8ab3a7",
+        "color15": "#fcfcfa"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/christmas-toys.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121215",
+        "foreground": "#fffffc",
+        "cursor": "#fffffc"
+    },
+    "colors": {
+        "color0": "#121215",
+        "color1": "#9F694A",
+        "color2": "#A4A49A",
+        "color3": "#D29D60",
+        "color4": "#DCC9B2",
+        "color5": "#CCB6A5",
+        "color6": "#688985",
+        "color7": "#e3e1de",
+        "color8": "#282830",
+        "color9": "#dd8451",
+        "color10": "#e9e9b3",
+        "color11": "#ffcd68",
+        "color12": "#ffffca",
+        "color13": "#ffe9be",
+        "color14": "#77c1b8",
+        "color15": "#fffffc"
+    }
+}

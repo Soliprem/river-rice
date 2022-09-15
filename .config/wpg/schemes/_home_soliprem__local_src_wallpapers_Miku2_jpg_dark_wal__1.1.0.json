@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/soliprem/.local/src/wallpapers/Miku2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111012",
+        "foreground": "#ccc8c9",
+        "cursor": "#ccc8c9"
+    },
+    "colors": {
+        "color0": "#111012",
+        "color1": "#163F87",
+        "color2": "#3B7587",
+        "color3": "#4F6D8F",
+        "color4": "#9D7988",
+        "color5": "#3F8697",
+        "color6": "#4E94A7",
+        "color7": "#ccc8c9",
+        "color8": "#8e8c8c",
+        "color9": "#163F87",
+        "color10": "#3B7587",
+        "color11": "#4F6D8F",
+        "color12": "#9D7988",
+        "color13": "#3F8697",
+        "color14": "#4E94A7",
+        "color15": "#ccc8c9"
+    }
+}

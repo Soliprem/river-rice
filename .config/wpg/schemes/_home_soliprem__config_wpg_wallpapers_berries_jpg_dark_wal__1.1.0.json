@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/berries.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a0a",
+        "foreground": "#fff7e7",
+        "cursor": "#fff7e7"
+    },
+    "colors": {
+        "color0": "#0a0a0a",
+        "color1": "#991A22",
+        "color2": "#645E4C",
+        "color3": "#906F53",
+        "color4": "#514736",
+        "color5": "#92572A",
+        "color6": "#6E4B34",
+        "color7": "#c6bbaf",
+        "color8": "#232323",
+        "color9": "#d21621",
+        "color10": "#8d7f57",
+        "color11": "#c98f5d",
+        "color12": "#725e3d",
+        "color13": "#ca6f2a",
+        "color14": "#995f39",
+        "color15": "#fff7e7"
+    }
+}

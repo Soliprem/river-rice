@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nanahira2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#401511",
+        "foreground": "#f2ffff",
+        "cursor": "#f2ffff"
+    },
+    "colors": {
+        "color0": "#401511",
+        "color1": "#F3B3A7",
+        "color2": "#DDBBA5",
+        "color3": "#EDD6A7",
+        "color4": "#F9CBCA",
+        "color5": "#FFA79E",
+        "color6": "#E0E3D6",
+        "color7": "#dff6eb",
+        "color8": "#67211b",
+        "color9": "#ffcdb6",
+        "color10": "#ffedbd",
+        "color11": "#ffffb9",
+        "color12": "#ffcdcb",
+        "color13": "#ffb9a9",
+        "color14": "#ffffde",
+        "color15": "#f2ffff"
+    }
+}

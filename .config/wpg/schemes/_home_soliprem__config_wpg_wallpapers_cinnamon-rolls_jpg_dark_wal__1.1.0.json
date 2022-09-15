@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cinnamon-rolls.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06111B",
+        "foreground": "#fffeee",
+        "cursor": "#fffeee"
+    },
+    "colors": {
+        "color0": "#06111B",
+        "color1": "#9C6A5A",
+        "color2": "#B2886F",
+        "color3": "#DC9767",
+        "color4": "#A59B97",
+        "color5": "#D7AF98",
+        "color6": "#788086",
+        "color7": "#ebdcce",
+        "color8": "#0e2a44",
+        "color9": "#da8165",
+        "color10": "#faac7d",
+        "color11": "#ffc070",
+        "color12": "#eac0af",
+        "color13": "#ffddad",
+        "color14": "#8ba8be",
+        "color15": "#fffeee"
+    }
+}

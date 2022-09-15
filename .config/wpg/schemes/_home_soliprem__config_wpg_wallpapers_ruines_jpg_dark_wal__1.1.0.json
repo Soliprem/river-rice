@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ruines.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161616",
+        "foreground": "#fffff3",
+        "cursor": "#fffff3"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#9DA59D",
+        "color2": "#5E8D8A",
+        "color3": "#C49C7A",
+        "color4": "#6F7A83",
+        "color5": "#D4B094",
+        "color6": "#3D8482",
+        "color7": "#e3dbd0",
+        "color8": "#2f2f2f",
+        "color9": "#b7ebb7",
+        "color10": "#6ac6c0",
+        "color11": "#ffc989",
+        "color12": "#80a0b9",
+        "color13": "#ffe1a9",
+        "color14": "#42b8b4",
+        "color15": "#fffff3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hotline-miami.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1013",
+        "foreground": "#fffcc2",
+        "cursor": "#fffcc2"
+    },
+    "colors": {
+        "color0": "#0f1013",
+        "color1": "#D05156",
+        "color2": "#91444B",
+        "color3": "#E86E52",
+        "color4": "#8C3D45",
+        "color5": "#E45C58",
+        "color6": "#B04A4F",
+        "color7": "#eac094",
+        "color8": "#24272f",
+        "color9": "#ff565e",
+        "color10": "#ca4a56",
+        "color11": "#ff8256",
+        "color12": "#c3424f",
+        "color13": "#ff645d",
+        "color14": "#f54f58",
+        "color15": "#fffcc2"
+    }
+}

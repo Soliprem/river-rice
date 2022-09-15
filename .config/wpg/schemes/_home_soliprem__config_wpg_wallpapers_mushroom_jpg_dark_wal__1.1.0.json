@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/mushroom.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161312",
+        "foreground": "#fff7f3",
+        "cursor": "#fff7f3"
+    },
+    "colors": {
+        "color0": "#161312",
+        "color1": "#B7573A",
+        "color2": "#68665E",
+        "color3": "#A98972",
+        "color4": "#93715E",
+        "color5": "#A29F9C",
+        "color6": "#728486",
+        "color7": "#dfcfcb",
+        "color8": "#312a28",
+        "color9": "#fd683b",
+        "color10": "#938c6d",
+        "color11": "#eeaf81",
+        "color12": "#ce8e6a",
+        "color13": "#e7ceb6",
+        "color14": "#84b8be",
+        "color15": "#fff7f3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bulbs.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#292225",
+        "foreground": "#fffce9",
+        "cursor": "#fffce9"
+    },
+    "colors": {
+        "color0": "#292225",
+        "color1": "#CE6C55",
+        "color2": "#526374",
+        "color3": "#E4966E",
+        "color4": "#526B81",
+        "color5": "#9A5E53",
+        "color6": "#6B5C65",
+        "color7": "#ebd6c6",
+        "color8": "#44383d",
+        "color9": "#ff805b",
+        "color10": "#5d80a3",
+        "color11": "#ffbb79",
+        "color12": "#5c8bb5",
+        "color13": "#d76f5c",
+        "color14": "#976a85",
+        "color15": "#fffce9"
+    }
+}

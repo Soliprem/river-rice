@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/spaceman.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#281f1d",
+        "foreground": "#fffff5",
+        "cursor": "#fffff5"
+    },
+    "colors": {
+        "color0": "#281f1d",
+        "color1": "#CA626F",
+        "color2": "#756A53",
+        "color3": "#9B916F",
+        "color4": "#8C715E",
+        "color5": "#927F7E",
+        "color6": "#60B3B9",
+        "color7": "#cdcabf",
+        "color8": "#453531",
+        "color9": "#ff6b81",
+        "color10": "#a58e5e",
+        "color11": "#dac57f",
+        "color12": "#c5906b",
+        "color13": "#cf9592",
+        "color14": "#6af8ff",
+        "color15": "#fffff5"
+    }
+}

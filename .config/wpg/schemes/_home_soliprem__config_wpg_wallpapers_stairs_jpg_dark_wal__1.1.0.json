@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/stairs.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121a1b",
+        "foreground": "#edf7f7",
+        "cursor": "#edf7f7"
+    },
+    "colors": {
+        "color0": "#121a1b",
+        "color1": "#8C6D66",
+        "color2": "#3D6446",
+        "color3": "#888D78",
+        "color4": "#4C4F4F",
+        "color5": "#616561",
+        "color6": "#6F8A67",
+        "color7": "#b3baba",
+        "color8": "#253739",
+        "color9": "#c58374",
+        "color10": "#448c55",
+        "color11": "#b9c88b",
+        "color12": "#587070",
+        "color13": "#719071",
+        "color14": "#87c376",
+        "color15": "#edf7f7"
+    }
+}

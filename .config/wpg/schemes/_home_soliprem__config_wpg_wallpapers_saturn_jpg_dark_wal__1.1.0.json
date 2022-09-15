@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/saturn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B0233",
+        "foreground": "#b8ffff",
+        "cursor": "#b8ffff"
+    },
+    "colors": {
+        "color0": "#0B0233",
+        "color1": "#B52DAA",
+        "color2": "#1A0491",
+        "color3": "#98AF38",
+        "color4": "#1D05B3",
+        "color5": "#D00DA1",
+        "color6": "#323BAF",
+        "color7": "#8bd8e5",
+        "color8": "#140264",
+        "color9": "#fa2be9",
+        "color10": "#1e01c0",
+        "color11": "#cef239",
+        "color12": "#2101ee",
+        "color13": "#ff02d8",
+        "color14": "#3240f2",
+        "color15": "#b8ffff"
+    }
+}

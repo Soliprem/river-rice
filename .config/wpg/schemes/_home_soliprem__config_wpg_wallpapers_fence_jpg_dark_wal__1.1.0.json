@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/fence.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060F12",
+        "foreground": "#e9fbfb",
+        "cursor": "#e9fbfb"
+    },
+    "colors": {
+        "color0": "#060F12",
+        "color1": "#976A56",
+        "color2": "#314D4D",
+        "color3": "#7F8279",
+        "color4": "#275357",
+        "color5": "#4C554C",
+        "color6": "#5E6B65",
+        "color7": "#b0bdbd",
+        "color8": "#112e38",
+        "color9": "#d38360",
+        "color10": "#376c6c",
+        "color11": "#aab98d",
+        "color12": "#2a7279",
+        "color13": "#587858",
+        "color14": "#6d9884",
+        "color15": "#e9fbfb"
+    }
+}

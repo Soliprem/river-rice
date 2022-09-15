@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/gruvbox_nord-shards.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c100c",
+        "foreground": "#fbfffb",
+        "cursor": "#fbfffb"
+    },
+    "colors": {
+        "color0": "#0c100c",
+        "color1": "#837479",
+        "color2": "#3D807B",
+        "color3": "#5F8A7A",
+        "color4": "#609388",
+        "color5": "#AC788A",
+        "color6": "#3D8586",
+        "color7": "#c1c6c1",
+        "color8": "#212c21",
+        "color9": "#ba8697",
+        "color10": "#43b2aa",
+        "color11": "#6cc2a2",
+        "color12": "#6dceb9",
+        "color13": "#f289ad",
+        "color14": "#42b9ba",
+        "color15": "#fbfffb"
+    }
+}

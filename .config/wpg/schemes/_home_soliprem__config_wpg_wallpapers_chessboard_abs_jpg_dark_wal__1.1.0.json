@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/chessboard_abs.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131213",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#131213",
+        "color1": "#D5D2CB",
+        "color2": "#A2A69F",
+        "color3": "#D1C9B7",
+        "color4": "#A1B7C6",
+        "color5": "#C0BEB6",
+        "color6": "#74B6AF",
+        "color7": "#eae7e1",
+        "color8": "#2c2a2c",
+        "color9": "#ffffdf",
+        "color10": "#cfecb9",
+        "color11": "#ffffd4",
+        "color12": "#baf2ff",
+        "color13": "#ffffd4",
+        "color14": "#83fff2",
+        "color15": "#fffff9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/electronics.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d1c1f",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#1d1c1f",
+        "color1": "#A79B98",
+        "color2": "#C2B6B3",
+        "color3": "#DFD0B3",
+        "color4": "#F2E2BE",
+        "color5": "#B4B1B7",
+        "color6": "#8E8B92",
+        "color7": "#e9e5df",
+        "color8": "#353339",
+        "color9": "#edbdb0",
+        "color10": "#ffded0",
+        "color11": "#ffffc9",
+        "color12": "#ffffc6",
+        "color13": "#e9ceff",
+        "color14": "#b5a2d0",
+        "color15": "#fffff9"
+    }
+}

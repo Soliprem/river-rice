@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/gruvbox_eeve_prysm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1011",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#0f1011",
+        "color1": "#BBB544",
+        "color2": "#678F6D",
+        "color3": "#FAAB29",
+        "color4": "#4F8A89",
+        "color5": "#99A390",
+        "color6": "#3D8486",
+        "color7": "#e2dccd",
+        "color8": "#26292b",
+        "color9": "#fffa47",
+        "color10": "#75c982",
+        "color11": "#ffe222",
+        "color12": "#58c1bf",
+        "color13": "#c5e7a7",
+        "color14": "#42b7ba",
+        "color15": "#fffff2"
+    }
+}

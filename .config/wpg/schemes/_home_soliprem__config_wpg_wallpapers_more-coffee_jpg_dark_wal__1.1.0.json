@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/more-coffee.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1512",
+        "foreground": "#fffcf7",
+        "cursor": "#fffcf7"
+    },
+    "colors": {
+        "color0": "#1c1512",
+        "color1": "#C57430",
+        "color2": "#8D5237",
+        "color3": "#B58D68",
+        "color4": "#7F7B8B",
+        "color5": "#956854",
+        "color6": "#A86033",
+        "color7": "#d1c9c5",
+        "color8": "#3a2b25",
+        "color9": "#ff952e",
+        "color10": "#c4653a",
+        "color11": "#fdb674",
+        "color12": "#9c8ec5",
+        "color13": "#d0815e",
+        "color14": "#e87934",
+        "color15": "#fffcf7"
+    }
+}

@@ -1,0 +1,2 @@
+#!/bin/sh
+swaybg -i "$HOME"/.config/bg

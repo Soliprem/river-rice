@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/magma.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09090A",
+        "foreground": "#e4f9ff",
+        "cursor": "#e4f9ff"
+    },
+    "colors": {
+        "color0": "#09090A",
+        "color1": "#CE2107",
+        "color2": "#2F4854",
+        "color3": "#C99235",
+        "color4": "#2F5766",
+        "color5": "#505A65",
+        "color6": "#5E7688",
+        "color7": "#acbcc3",
+        "color8": "#202024",
+        "color9": "#ff2401",
+        "color10": "#346075",
+        "color11": "#ffc234",
+        "color12": "#33758e",
+        "color13": "#5c748f",
+        "color14": "#6b9bbf",
+        "color15": "#e4f9ff"
+    }
+}

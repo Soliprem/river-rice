@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/smashball.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101216",
+        "foreground": "#fff4f9",
+        "cursor": "#fff4f9"
+    },
+    "colors": {
+        "color0": "#101216",
+        "color1": "#D52851",
+        "color2": "#F12D5B",
+        "color3": "#EB97AA",
+        "color4": "#EA6C88",
+        "color5": "#F04970",
+        "color6": "#FF3061",
+        "color7": "#f5e2e6",
+        "color8": "#242933",
+        "color9": "#ff2360",
+        "color10": "#ff276c",
+        "color11": "#ffabcf",
+        "color12": "#ff76a4",
+        "color13": "#ff4a86",
+        "color14": "#ff2a73",
+        "color15": "#fff4f9"
+    }
+}

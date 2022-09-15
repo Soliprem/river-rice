@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/rails.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#071314",
+        "foreground": "#fffff8",
+        "cursor": "#fffff8"
+    },
+    "colors": {
+        "color0": "#071314",
+        "color1": "#8C6662",
+        "color2": "#4C544E",
+        "color3": "#C98D7C",
+        "color4": "#68655E",
+        "color5": "#8D8A76",
+        "color6": "#7B847A",
+        "color7": "#c5c5be",
+        "color8": "#13373a",
+        "color9": "#c5786f",
+        "color10": "#587760",
+        "color11": "#ffab8c",
+        "color12": "#93886d",
+        "color13": "#c8bf88",
+        "color14": "#92bc8e",
+        "color15": "#fffff8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/town.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09090a",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#09090a",
+        "color1": "#988973",
+        "color2": "#78847F",
+        "color3": "#C5955B",
+        "color4": "#A79F93",
+        "color5": "#B5B3AE",
+        "color6": "#C3BEB7",
+        "color7": "#dcdbdc",
+        "color8": "#202024",
+        "color9": "#d6b584",
+        "color10": "#8bbba7",
+        "color11": "#ffc363",
+        "color12": "#edd2aa",
+        "color13": "#fff2cb",
+        "color14": "#fffbd5",
+        "color15": "#fffeff"
+    }
+}

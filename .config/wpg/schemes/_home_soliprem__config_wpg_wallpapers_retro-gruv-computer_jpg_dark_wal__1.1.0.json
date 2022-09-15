@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/retro-gruv-computer.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0717",
+        "foreground": "#fffff1",
+        "cursor": "#fffff1"
+    },
+    "colors": {
+        "color0": "#0A0717",
+        "color1": "#999678",
+        "color2": "#C2BE95",
+        "color3": "#C9AD77",
+        "color4": "#DDD5A6",
+        "color5": "#A6AC8D",
+        "color6": "#718F87",
+        "color7": "#e2e0cc",
+        "color8": "#1a113e",
+        "color9": "#d8d18a",
+        "color10": "#ffffab",
+        "color11": "#ffe785",
+        "color12": "#ffffbe",
+        "color13": "#e4f3a3",
+        "color14": "#82cab7",
+        "color15": "#fffff1"
+    }
+}

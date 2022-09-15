@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/forest-hut.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c08",
+        "foreground": "#e6e9ea",
+        "cursor": "#e6e9ea"
+    },
+    "colors": {
+        "color0": "#0c0c08",
+        "color1": "#674625",
+        "color2": "#3B422E",
+        "color3": "#62625E",
+        "color4": "#3B4948",
+        "color5": "#4E4E4C",
+        "color6": "#494433",
+        "color7": "#abadae",
+        "color8": "#2a2a1b",
+        "color9": "#8f5b26",
+        "color10": "#4e5d34",
+        "color11": "#8b8b6d",
+        "color12": "#446764",
+        "color13": "#6f6f58",
+        "color14": "#665c3a",
+        "color15": "#e6e9ea"
+    }
+}

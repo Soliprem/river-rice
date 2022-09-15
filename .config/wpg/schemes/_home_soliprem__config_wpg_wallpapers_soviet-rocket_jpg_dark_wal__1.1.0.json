@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/soviet-rocket.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0c0f",
+        "foreground": "#eaf6ff",
+        "cursor": "#eaf6ff"
+    },
+    "colors": {
+        "color0": "#0b0c0f",
+        "color1": "#96624B",
+        "color2": "#514E4D",
+        "color3": "#C6986E",
+        "color4": "#54698C",
+        "color5": "#615C5E",
+        "color6": "#3A4556",
+        "color7": "#b2bbc6",
+        "color8": "#1f222c",
+        "color9": "#d17952",
+        "color10": "#736059",
+        "color11": "#ffc47a",
+        "color12": "#5e84c4",
+        "color13": "#8a6b77",
+        "color14": "#425779",
+        "color15": "#eaf6ff"
+    }
+}

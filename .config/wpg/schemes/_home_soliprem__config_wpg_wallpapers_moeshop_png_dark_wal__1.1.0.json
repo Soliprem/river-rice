@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/moeshop.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#04193C",
+        "foreground": "#eef3f2",
+        "cursor": "#eef3f2"
+    },
+    "colors": {
+        "color0": "#04193C",
+        "color1": "#784C56",
+        "color2": "#03815D",
+        "color3": "#787877",
+        "color4": "#6B6465",
+        "color5": "#816D70",
+        "color6": "#4F8272",
+        "color7": "#b3b7b6",
+        "color8": "#062c6b",
+        "color9": "#a85668",
+        "color10": "#01aa7a",
+        "color11": "#abab8b",
+        "color12": "#987479",
+        "color13": "#b77e86",
+        "color14": "#59b699",
+        "color15": "#eef3f2"
+    }
+}

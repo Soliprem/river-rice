@@ -18,6 +18,7 @@ riverctl map -repeat normal $mod+Shift D spawn "rofi -show drun"
 
 # Bind useful Scripts
 riverctl map -repeat normal $mod g spawn "dm-dictionary"
+riverctl map -repeat normal $mod+Control+Mod1 R spawn "randrice"
 riverctl map -repeat normal $mod e spawn "schwa"
 riverctl map -repeat normal $mod+Shift e spawn "dm-special"
 riverctl map -repeat normal $mod c spawn "dm-spellcheck"
@@ -174,6 +175,8 @@ riverctl map normal $mod F11 enter-mode passthrough
 # Mod+F11 to return to normal mode
 riverctl map passthrough $mod F11 enter-mode normal
 
+riverctl map -repeat normal $mod p spawn 'mpc toggle && notify-status'
+
 # Various media key mapping examples for both normal and locked mode which do
 # not have a modifier
 for mode in normal locked; do
@@ -181,14 +184,13 @@ for mode in normal locked; do
 	riverctl map $mode None XF86Eject spawn 'eject -T'
 
 	# Control pulse audio volume with pamixer (https://github.com/cdemoulins/pamixer)
-	riverctl map -repeat $mode None XF86AudioRaiseVolume spawn 'pamixer -i 5'
-	riverctl map -repeat $mode None XF86AudioLowerVolume spawn 'pamixer -d 5'
-	riverctl map -repeat $mode None XF86AudioMute spawn 'pamixer --toggle-mute'
+	riverctl map -repeat $mode None XF86AudioRaiseVolume spawn 'pamixer -i 5 && notify-volume'
+	riverctl map -repeat $mode None XF86AudioLowerVolume spawn 'pamixer -d 5 && notify-volume'
+	riverctl map -repeat $mode None XF86AudioMute spawn 'pamixer --toggle-mute && notify-volume'
 
 	# Control MPRIS aware media players with playerctl (https://github.com/altdesktop/playerctl)
 	riverctl map -repeat $mode None XF86AudioMedia spawn 'playerctl play-pause'
 	riverctl map -repeat $mode None XF86AudioPlay spawn 'playerctl play-pause'
-	riverctl map -repeat $mod p XF86AudioPlay spawn 'mpc toggle'
 	riverctl map -repeat $mode None XF86AudioPrev spawn 'playerctl previous'
 	riverctl map -repeat $mode None XF86AudioNext spawn 'playerctl next'
 
@@ -198,9 +200,7 @@ for mode in normal locked; do
 done
 
 # Set background and border color
-riverctl background-color 0x002b36
-riverctl border-color-focused 0x9bc9ab
-riverctl border-color-unfocused 0x483d03
+river-theme
 
 riverctl xcursor-theme 'Bibata-Modern-Ice' 24
 
@@ -222,7 +222,7 @@ riverctl spawn "waybar"
 riverctl spawn "pipewire-pulse"
 riverctl spawn "wireplumber"
 # Sets wallpaper and launches bar
-riverctl spawn "swaybg -i $HOME/.config/bg"
+riverctl spawn "swaybg -i $HOME/.config/wpg/.current"
 # riverctl spawn "waybar"
 # Starts music player daemon and button support
 riverctl spawn "mpd"

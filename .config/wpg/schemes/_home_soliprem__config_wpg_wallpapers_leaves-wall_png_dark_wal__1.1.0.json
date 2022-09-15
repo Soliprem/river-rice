@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/leaves-wall.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a1012",
+        "foreground": "#e8fbd9",
+        "cursor": "#e8fbd9"
+    },
+    "colors": {
+        "color0": "#0a1012",
+        "color1": "#51614B",
+        "color2": "#4B663B",
+        "color3": "#526D47",
+        "color4": "#394E43",
+        "color5": "#304830",
+        "color6": "#445938",
+        "color7": "#adbba2",
+        "color8": "#1b2c32",
+        "color9": "#648956",
+        "color10": "#5e8f42",
+        "color11": "#659950",
+        "color12": "#416e56",
+        "color13": "#366536",
+        "color14": "#557d3f",
+        "color15": "#e8fbd9"
+    }
+}

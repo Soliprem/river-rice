@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/microscopic.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b151b",
+        "foreground": "#fff8f1",
+        "cursor": "#fff8f1"
+    },
+    "colors": {
+        "color0": "#0b151b",
+        "color1": "#98A29B",
+        "color2": "#689992",
+        "color3": "#B68D74",
+        "color4": "#617784",
+        "color5": "#AFB2AF",
+        "color6": "#329993",
+        "color7": "#decec8",
+        "color8": "#18303f",
+        "color9": "#b1e6c1",
+        "color10": "#76d7c9",
+        "color11": "#ffb283",
+        "color12": "#6f9eba",
+        "color13": "#ccfecc",
+        "color14": "#33d4ca",
+        "color15": "#fff8f1"
+    }
+}

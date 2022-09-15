@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pride_arch.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0909",
+        "foreground": "#e1feff",
+        "cursor": "#e1feff"
+    },
+    "colors": {
+        "color0": "#0a0909",
+        "color1": "#A04633",
+        "color2": "#6FA44C",
+        "color3": "#B3A94E",
+        "color4": "#5466AA",
+        "color5": "#BC4EBB",
+        "color6": "#575759",
+        "color7": "#acc2d5",
+        "color8": "#242020",
+        "color9": "#dd5234",
+        "color10": "#8de453",
+        "color11": "#f9e954",
+        "color12": "#5c7aed",
+        "color13": "#ff54ff",
+        "color14": "#65657f",
+        "color15": "#e1feff"
+    }
+}

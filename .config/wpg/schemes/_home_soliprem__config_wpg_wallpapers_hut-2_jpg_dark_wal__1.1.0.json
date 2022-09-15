@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hut-2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0E0A",
+        "foreground": "#fffbd9",
+        "cursor": "#fffbd9"
+    },
+    "colors": {
+        "color0": "#0D0E0A",
+        "color1": "#9B6134",
+        "color2": "#768567",
+        "color3": "#BD833D",
+        "color4": "#A5734B",
+        "color5": "#AA8862",
+        "color6": "#C47B44",
+        "color7": "#e0c1a7",
+        "color8": "#282b1e",
+        "color9": "#d77c36",
+        "color10": "#99bc76",
+        "color11": "#ffab3e",
+        "color12": "#e69351",
+        "color13": "#eeb16d",
+        "color14": "#ff9d47",
+        "color15": "#fffbd9"
+    }
+}

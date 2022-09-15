@@ -18,7 +18,7 @@ configuration{
 }
 
 /* @theme "custom_gruvbox" */
-@theme "sage"
+@theme "flatcolor"
 
 element-text, element-icon , mode-switcher {
     background-color: inherit;

@@ -1,0 +1,309 @@
+* {{
+	border: none;
+	border-radius: 10px;
+  font-family: "SauceCodePro Nerd Font" ;
+	font-size: 15px;
+	min-height: 10px;
+}}
+
+window#waybar {{
+	background: transparent;
+}}
+
+window#waybar.hidden {{
+	opacity: 0.2;
+}}
+
+#window {{
+	margin-top: 6px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 10px;
+	transition: none;
+    color: transparent;
+	background: transparent;
+}}
+#tags {{
+	margin-top: 6px;
+	margin-left: 12px;
+	font-size: 4px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	min-width: 0;
+	background: {color0};
+	transition: none;
+}}
+
+#tags button {{
+	min-width: 50px;
+	transition: none;
+	color: {color7};
+	background: transparent;
+	font-size: 16px;
+	border-radius: 2px;
+}}
+
+#tags button.occupied {{
+	transition: none;
+	color: {color9};
+	background: transparent;
+	font-size: 4px;
+}}
+
+#tags button.focused {{
+	color: {color10};
+    border-top: 2px solid {color10};
+    border-bottom: 2px solid {color10};
+}}
+
+#tags button:hover {{
+	transition: none;
+	box-shadow: inherit;
+	text-shadow: inherit;
+	color: {color15};
+    border-color: {color15};
+    color: {color15};
+}}
+
+#tags button.focused:hover {{
+    color: {color15};
+}}
+
+#tags button.urgent {{
+        border-top: 2px solid #fb4934;
+        border-bottom: 2px solid #fb4934;
+}}
+
+#workspaces button {{
+        padding: 0 0 0 0;
+        margin: 4px 3px 6px 3px;
+        background-color: {color0};
+        color: {color12};
+        min-width: 36px;
+}}
+
+#workspaces button.active {{
+
+        padding: 0 0 0 0;
+        margin: 4px 3px 6px 3px;
+        background-color: {color12};
+        color: {color0};
+        min-width: 36px;
+}}
+
+#workspaces button:hover {{
+        background: rgba(0, 0, 0, 0.2);
+}}
+
+#workspaces button.focused {{
+        background-color: {color10};
+        color: #323232;
+}}
+
+#workspaces button.urgent {{
+        background-color: #fb4934;
+}}
+
+#window,
+#workspaces {{
+        margin: 0 4px;
+}}
+
+.modules-left > widget:first-child > #workspaces {{
+        margin-left: 0;
+}}
+
+.modules-right > widget:first-child > #workspaces {{
+        margin-right: 0;
+}}
+
+#network {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color9};
+}}
+
+#pulseaudio {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color2};
+}}
+
+#battery {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #B5E8E0;
+}}
+
+#battery.charging, #battery.plugged {{
+	color: #161320;
+    background-color: #B5E8E0;
+}}
+
+#battery.critical:not(.charging) {{
+    background-color: #B5E8E0;
+    color: #161320;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}}
+
+@keyframes blink {{
+    to {{
+        background-color: #BF616A;
+        color: #B5E8E0;
+    }}
+}}
+
+#backlight {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #F8BD96;
+}}
+#clock {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color1};
+	/*background: #1A1826;*/
+}}
+
+#memory {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+	padding-right: 10px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color9};
+}}
+#cpu {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+	padding-right: 10px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color1};
+}}
+
+#tray {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+	padding-right: 10px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color4};
+}}
+
+#custom-launcher {{
+	font-size: 24px;
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 5px;
+	border-radius: 10px;
+	transition: none;
+    color: {color10};
+    background: {color8};
+}}
+
+#custom-power {{
+	font-size: 20px;
+	margin-top: 6px;
+	margin-left: 8px;
+	margin-right: 8px;
+	padding-left: 10px;
+	/* padding-right: 5px; */
+        padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: {color10};
+	background: {color8};
+}}
+
+#custom-wallpaper {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #C9CBFF;
+}}
+
+#custom-updates {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #E8A2AF;
+}}
+
+#custom-media {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color4};
+}}
+#custom-mpc {{
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: {color15};
+	background: {color2};
+}}

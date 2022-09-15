@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bush.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0B05",
+        "foreground": "#fdffd9",
+        "cursor": "#fdffd9"
+    },
+    "colors": {
+        "color0": "#0A0B05",
+        "color1": "#617040",
+        "color2": "#667734",
+        "color3": "#748438",
+        "color4": "#465628",
+        "color5": "#556830",
+        "color6": "#75894A",
+        "color7": "#bec7a3",
+        "color8": "#2a2e13",
+        "color9": "#829d47",
+        "color10": "#8aa538",
+        "color11": "#9db73c",
+        "color12": "#5d782b",
+        "color13": "#719134",
+        "color14": "#9dbf52",
+        "color15": "#fdffd9"
+    }
+}

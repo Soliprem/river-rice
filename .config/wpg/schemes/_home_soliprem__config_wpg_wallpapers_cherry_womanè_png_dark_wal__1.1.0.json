@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cherry_womanè.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#281e22",
+        "foreground": "#fff7f7",
+        "cursor": "#fff7f7"
+    },
+    "colors": {
+        "color0": "#281e22",
+        "color1": "#E9B9B0",
+        "color2": "#F2C8B6",
+        "color3": "#DC9D98",
+        "color4": "#DCBEC1",
+        "color5": "#D7AEB0",
+        "color6": "#B0B4C6",
+        "color7": "#ebdddd",
+        "color8": "#44333a",
+        "color9": "#ffd5c2",
+        "color10": "#ffe6c1",
+        "color11": "#ffb7ad",
+        "color12": "#ffd2db",
+        "color13": "#ffc8ce",
+        "color14": "#ccdaff",
+        "color15": "#fff7f7"
+    }
+}

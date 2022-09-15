@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/gumi.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2d1a1e",
+        "foreground": "#fffff4",
+        "cursor": "#fffff4"
+    },
+    "colors": {
+        "color0": "#2d1a1e",
+        "color1": "#E8D7AB",
+        "color2": "#A9D4DC",
+        "color3": "#BACC84",
+        "color4": "#9FA5AA",
+        "color5": "#E8A7A3",
+        "color6": "#95CAD7",
+        "color7": "#f5ebe1",
+        "color8": "#4c2c33",
+        "color9": "#ffffbe",
+        "color10": "#c2ffff",
+        "color11": "#fcff95",
+        "color12": "#b9d8f2",
+        "color13": "#ffc1b9",
+        "color14": "#aaffff",
+        "color15": "#fffff4"
+    }
+}

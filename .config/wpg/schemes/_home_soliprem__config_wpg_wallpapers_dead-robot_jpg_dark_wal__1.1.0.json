@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/dead-robot.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0c0f",
+        "foreground": "#e3f7f7",
+        "cursor": "#e3f7f7"
+    },
+    "colors": {
+        "color0": "#0e0c0f",
+        "color1": "#9D5832",
+        "color2": "#645851",
+        "color3": "#C69C47",
+        "color4": "#383E48",
+        "color5": "#9E8B73",
+        "color6": "#8D6F62",
+        "color7": "#aab9b9",
+        "color8": "#28222b",
+        "color9": "#d96e33",
+        "color10": "#8d6f5d",
+        "color11": "#ffd04a",
+        "color12": "#404e65",
+        "color13": "#dfb683",
+        "color14": "#c68a6f",
+        "color15": "#e3f7f7"
+    }
+}

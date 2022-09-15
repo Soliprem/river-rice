@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/coffee-newspaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121212",
+        "foreground": "#fffffc",
+        "cursor": "#fffffc"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#A58973",
+        "color2": "#D2BEAC",
+        "color3": "#C7946E",
+        "color4": "#627785",
+        "color5": "#A4A6A5",
+        "color6": "#77878F",
+        "color7": "#e2e0de",
+        "color8": "#2b2b2b",
+        "color9": "#e8af83",
+        "color10": "#fff5c6",
+        "color11": "#ffbd7a",
+        "color12": "#709dbb",
+        "color13": "#bfedd6",
+        "color14": "#89b5ca",
+        "color15": "#fffffc"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lantern.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c0f",
+        "foreground": "#ffffcb",
+        "cursor": "#ffffcb"
+    },
+    "colors": {
+        "color0": "#0c0c0f",
+        "color1": "#B86131",
+        "color2": "#30492E",
+        "color3": "#965E27",
+        "color4": "#5A594C",
+        "color5": "#61522A",
+        "color6": "#4C3528",
+        "color7": "#e2c29b",
+        "color8": "#22222b",
+        "color9": "#fe7930",
+        "color10": "#376634",
+        "color11": "#cf7a26",
+        "color12": "#7f7c58",
+        "color13": "#876e2d",
+        "color14": "#6a422c",
+        "color15": "#ffffcb"
+    }
+}

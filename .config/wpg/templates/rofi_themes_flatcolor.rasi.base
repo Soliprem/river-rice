@@ -1,0 +1,12 @@
+* {{
+    bg-col:  {color0};
+    bg-col-light: {inactive};
+    border-col: {color0};
+    selected-col: {active};
+    blue: {color4};
+    fg-col: {color5};
+    fg-col2: {color0};
+    grey: {color7};
+    width: 600;
+}}
+

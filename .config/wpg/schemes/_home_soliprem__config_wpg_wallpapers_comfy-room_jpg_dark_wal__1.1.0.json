@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/comfy-room.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0502",
+        "foreground": "#ffffeb",
+        "cursor": "#ffffeb"
+    },
+    "colors": {
+        "color0": "#0E0502",
+        "color1": "#B45F1B",
+        "color2": "#715C44",
+        "color3": "#BE9358",
+        "color4": "#704D2D",
+        "color5": "#95714D",
+        "color6": "#945B28",
+        "color7": "#e6ddc5",
+        "color8": "#3c1305",
+        "color9": "#f77915",
+        "color10": "#9e784c",
+        "color11": "#ffc160",
+        "color12": "#9b6330",
+        "color13": "#d09255",
+        "color14": "#cc7527",
+        "color15": "#ffffeb"
+    }
+}

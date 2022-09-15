@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/snes.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1739",
+        "foreground": "#ffeeff",
+        "cursor": "#ffeeff"
+    },
+    "colors": {
+        "color0": "#1a1739",
+        "color1": "#A367D4",
+        "color2": "#AF9DDA",
+        "color3": "#E79EA4",
+        "color4": "#473FA8",
+        "color5": "#D35BC2",
+        "color6": "#4AA7BE",
+        "color7": "#e3c8e3",
+        "color8": "#2a255c",
+        "color9": "#d571ff",
+        "color10": "#d9b3ff",
+        "color11": "#ffb4c0",
+        "color12": "#4f42e9",
+        "color13": "#ff62ff",
+        "color14": "#4fe3ff",
+        "color15": "#ffeeff"
+    }
+}

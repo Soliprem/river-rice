@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/soliprem/.local/src/wallpapers/eeve_prysm.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#06040D",
+        "foreground": "#cfcfce",
+        "cursor": "#cfcfce"
+    },
+    "colors": {
+        "color0": "#06040D",
+        "color1": "#48CF46",
+        "color2": "#D9CE49",
+        "color3": "#3775CE",
+        "color4": "#83568A",
+        "color5": "#D4728A",
+        "color6": "#5D9DE3",
+        "color7": "#cfcfce",
+        "color8": "#909090",
+        "color9": "#48CF46",
+        "color10": "#D9CE49",
+        "color11": "#3775CE",
+        "color12": "#83568A",
+        "color13": "#D4728A",
+        "color14": "#5D9DE3",
+        "color15": "#cfcfce"
+    }
+}

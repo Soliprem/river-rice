@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/urban_fox.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161811",
+        "foreground": "#fdfdff",
+        "cursor": "#fdfdff"
+    },
+    "colors": {
+        "color0": "#161811",
+        "color1": "#A5958C",
+        "color2": "#978F8B",
+        "color3": "#988973",
+        "color4": "#C2C0BE",
+        "color5": "#ABAAA8",
+        "color6": "#768685",
+        "color7": "#dedee0",
+        "color8": "#303525",
+        "color9": "#eabca2",
+        "color10": "#d7b3a1",
+        "color11": "#d6b584",
+        "color12": "#fff9de",
+        "color13": "#f4e4c4",
+        "color14": "#89bebb",
+        "color15": "#fdfdff"
+    }
+}

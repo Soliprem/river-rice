@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/couple_cityscape.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C192A",
+        "foreground": "#f7e8fc",
+        "cursor": "#f7e8fc"
+    },
+    "colors": {
+        "color0": "#0C192A",
+        "color1": "#BB413A",
+        "color2": "#A35357",
+        "color3": "#E8AA59",
+        "color4": "#634B5A",
+        "color5": "#DD5E5A",
+        "color6": "#953956",
+        "color7": "#baafbe",
+        "color8": "#163051",
+        "color9": "#ff463b",
+        "color10": "#e35b62",
+        "color11": "#ffdf5e",
+        "color12": "#8b5677",
+        "color13": "#ff6760",
+        "color14": "#cf3c6a",
+        "color15": "#f7e8fc"
+    }
+}

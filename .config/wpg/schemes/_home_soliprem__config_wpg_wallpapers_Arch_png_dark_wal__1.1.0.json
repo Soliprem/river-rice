@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Arch.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1925",
+        "foreground": "#edffff",
+        "cursor": "#edffff"
+    },
+    "colors": {
+        "color0": "#1b1925",
+        "color1": "#DFB8F4",
+        "color2": "#DCB6F2",
+        "color3": "#ABE9B3",
+        "color4": "#E4DEB0",
+        "color5": "#FAE3B0",
+        "color6": "#8CB2D6",
+        "color7": "#cae8d9",
+        "color8": "#302d43",
+        "color9": "#ffc1ff",
+        "color10": "#ffc1ff",
+        "color11": "#beffcf",
+        "color12": "#ffffc4",
+        "color13": "#ffffb9",
+        "color14": "#9fe8ff",
+        "color15": "#edffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/houseonthesideofalake.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131313",
+        "foreground": "#ffe4d0",
+        "cursor": "#ffe4d0"
+    },
+    "colors": {
+        "color0": "#131313",
+        "color1": "#935832",
+        "color2": "#4B4F4C",
+        "color3": "#5F605E",
+        "color4": "#3E5A62",
+        "color5": "#423E42",
+        "color6": "#3A4649",
+        "color7": "#c3aa9b",
+        "color8": "#2c2c2c",
+        "color9": "#cb6f34",
+        "color10": "#57705d",
+        "color11": "#7b896d",
+        "color12": "#467a89",
+        "color13": "#5e485e",
+        "color14": "#426067",
+        "color15": "#ffe4d0"
+    }
+}

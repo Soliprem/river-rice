@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/vietnam_farms.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081308",
+        "foreground": "#ffffe3",
+        "cursor": "#ffffe3"
+    },
+    "colors": {
+        "color0": "#081308",
+        "color1": "#9F9F21",
+        "color2": "#688E39",
+        "color3": "#D4C333",
+        "color4": "#E9D16C",
+        "color5": "#A2A464",
+        "color6": "#5C868C",
+        "color7": "#f0e9c2",
+        "color8": "#163716",
+        "color9": "#dbdb1e",
+        "color10": "#88c53d",
+        "color11": "#ffff31",
+        "color12": "#ffff76",
+        "color13": "#e2e670",
+        "color14": "#68b9c5",
+        "color15": "#ffffe3"
+    }
+}

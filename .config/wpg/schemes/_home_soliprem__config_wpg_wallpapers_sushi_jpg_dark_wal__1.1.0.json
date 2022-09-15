@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sushi.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E121B",
+        "foreground": "#fffff3",
+        "cursor": "#fffff3"
+    },
+    "colors": {
+        "color0": "#0E121B",
+        "color1": "#C15E59",
+        "color2": "#6F8F70",
+        "color3": "#DC9548",
+        "color4": "#4C4D4F",
+        "color5": "#979274",
+        "color6": "#6C6A5F",
+        "color7": "#c8cbba",
+        "color8": "#1e273c",
+        "color9": "#ff6961",
+        "color10": "#7fca82",
+        "color11": "#ffc24a",
+        "color12": "#586070",
+        "color13": "#d5ca85",
+        "color14": "#99926e",
+        "color15": "#fffff3"
+    }
+}

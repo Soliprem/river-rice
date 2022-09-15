@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/camera.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201f1f",
+        "foreground": "#fffef7",
+        "cursor": "#fffef7"
+    },
+    "colors": {
+        "color0": "#201f1f",
+        "color1": "#8E6D52",
+        "color2": "#957961",
+        "color3": "#CA9F72",
+        "color4": "#7B7F82",
+        "color5": "#B28D6C",
+        "color6": "#A68566",
+        "color7": "#cdc7c2",
+        "color8": "#393737",
+        "color9": "#c78c5c",
+        "color10": "#d19c6e",
+        "color11": "#ffcf7f",
+        "color12": "#8fa7b9",
+        "color13": "#f9b679",
+        "color14": "#e9ac73",
+        "color15": "#fffef7"
+    }
+}

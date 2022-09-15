@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/the shooting star.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080F37",
+        "foreground": "#e7f5ff",
+        "cursor": "#e7f5ff"
+    },
+    "colors": {
+        "color0": "#080F37",
+        "color1": "#E95D5A",
+        "color2": "#2F4775",
+        "color3": "#295890",
+        "color4": "#0365AA",
+        "color5": "#A24852",
+        "color6": "#5A6E9E",
+        "color7": "#b0baca",
+        "color8": "#0d1a63",
+        "color9": "#ff645f",
+        "color10": "#3258a2",
+        "color11": "#2971c7",
+        "color12": "#0183df",
+        "color13": "#e14e5e",
+        "color14": "#6488dd",
+        "color15": "#e7f5ff"
+    }
+}

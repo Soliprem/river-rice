@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/wooden-table-coffee.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E1311",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#0E1311",
+        "color1": "#9A5B23",
+        "color2": "#5C5B50",
+        "color3": "#B68C61",
+        "color4": "#3A4847",
+        "color5": "#A07550",
+        "color6": "#7B8282",
+        "color7": "#c7c6c5",
+        "color8": "#22302a",
+        "color9": "#d47521",
+        "color10": "#827f5c",
+        "color11": "#feb66b",
+        "color12": "#436563",
+        "color13": "#df9658",
+        "color14": "#8fb9b9",
+        "color15": "#fffffd"
+    }
+}

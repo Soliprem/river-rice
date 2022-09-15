@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/gogatsu.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#281e27",
+        "foreground": "#fffbfc",
+        "cursor": "#fffbfc"
+    },
+    "colors": {
+        "color0": "#281e27",
+        "color1": "#C5AAD2",
+        "color2": "#C5CCC6",
+        "color3": "#CC9CAB",
+        "color4": "#A392AC",
+        "color5": "#C6A4CB",
+        "color6": "#B0A3CE",
+        "color7": "#e7e1e2",
+        "color8": "#443342",
+        "color9": "#ffc4ff",
+        "color10": "#e1ffe9",
+        "color11": "#ffb3d5",
+        "color12": "#daa9f4",
+        "color13": "#ffbdff",
+        "color14": "#dbbbff",
+        "color15": "#fffbfc"
+    }
+}

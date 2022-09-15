@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sunset-scenery-clouds-digital-art-4k-wallpaper-3840x2160-uhdpaper.com-531.0_a.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a021b",
+        "foreground": "#ffe9ee",
+        "cursor": "#ffe9ee"
+    },
+    "colors": {
+        "color0": "#0a021b",
+        "color1": "#E23E58",
+        "color2": "#192C9B",
+        "color3": "#343BA8",
+        "color4": "#2459D5",
+        "color5": "#DD7286",
+        "color6": "#51B2ED",
+        "color7": "#ebc7cb",
+        "color8": "#1a034b",
+        "color9": "#ff3d65",
+        "color10": "#1430d5",
+        "color11": "#3540e8",
+        "color12": "#1e6dff",
+        "color13": "#ff7ea0",
+        "color14": "#54ecff",
+        "color15": "#ffe9ee"
+    }
+}

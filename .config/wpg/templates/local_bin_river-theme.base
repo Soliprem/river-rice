@@ -1,0 +1,10 @@
+#!/bin/sh
+riverctl background-color "0x{inactive.strip}"
+riverctl border-color-focused "0x{active.strip}"
+riverctl border-color-unfocused "0x{inactive.strip}"
+
+killall swaybg
+swaybg -i ~/.config/wpg/.current &
+waybar-restart &
+killall mako
+mako &

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/deviltech.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181918",
+        "foreground": "#b8c9c4",
+        "cursor": "#b8c9c4"
+    },
+    "colors": {
+        "color0": "#181918",
+        "color1": "#938970",
+        "color2": "#77968B",
+        "color3": "#969C8A",
+        "color4": "#83A495",
+        "color5": "#83A598",
+        "color6": "#83A598",
+        "color7": "#b8c9c4",
+        "color8": "#808c89",
+        "color9": "#938970",
+        "color10": "#77968B",
+        "color11": "#969C8A",
+        "color12": "#83A495",
+        "color13": "#83A598",
+        "color14": "#83A598",
+        "color15": "#b8c9c4"
+    }
+}

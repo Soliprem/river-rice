@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/OneDark_cityscape.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060611",
+        "foreground": "#ddffff",
+        "cursor": "#ddffff"
+    },
+    "colors": {
+        "color0": "#060611",
+        "color1": "#A83867",
+        "color2": "#29466F",
+        "color3": "#604C68",
+        "color4": "#205695",
+        "color5": "#B53A94",
+        "color6": "#444A96",
+        "color7": "#a8c2d2",
+        "color8": "#111137",
+        "color9": "#e93a83",
+        "color10": "#2b599a",
+        "color11": "#815792",
+        "color12": "#1d6ecd",
+        "color13": "#fa3bc7",
+        "color14": "#4a54d1",
+        "color15": "#ddffff"
+    }
+}

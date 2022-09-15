@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sky.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080F37",
+        "foreground": "#e6f6ff",
+        "cursor": "#e6f6ff"
+    },
+    "colors": {
+        "color0": "#080F37",
+        "color1": "#E85D5A",
+        "color2": "#2F4775",
+        "color3": "#295890",
+        "color4": "#007CC3",
+        "color5": "#A24952",
+        "color6": "#5A6E9E",
+        "color7": "#afbbcc",
+        "color8": "#0d1a63",
+        "color9": "#ff6460",
+        "color10": "#3258a2",
+        "color11": "#2971c7",
+        "color12": "#01a0fc",
+        "color13": "#e14f5e",
+        "color14": "#6488dd",
+        "color15": "#e6f6ff"
+    }
+}

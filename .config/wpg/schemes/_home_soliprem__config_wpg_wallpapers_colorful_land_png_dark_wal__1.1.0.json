@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/colorful_land.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2e331d",
+        "foreground": "#f8fff5",
+        "cursor": "#f8fff5"
+    },
+    "colors": {
+        "color0": "#2e331d",
+        "color1": "#61B0A6",
+        "color2": "#497588",
+        "color3": "#7BC1B0",
+        "color4": "#126D89",
+        "color5": "#867981",
+        "color6": "#3094A3",
+        "color7": "#cad7c7",
+        "color8": "#4a532e",
+        "color9": "#6cf6e5",
+        "color10": "#519dbe",
+        "color11": "#8bffef",
+        "color12": "#0d93bc",
+        "color13": "#be8cab",
+        "color14": "#30cae1",
+        "color15": "#f8fff5"
+    }
+}

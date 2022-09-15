@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/classroom.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1112",
+        "foreground": "#fffdbb",
+        "cursor": "#fffdbb"
+    },
+    "colors": {
+        "color0": "#1f1112",
+        "color1": "#DE6D2A",
+        "color2": "#8C482C",
+        "color3": "#AD5629",
+        "color4": "#5A4344",
+        "color5": "#9C5446",
+        "color6": "#92392B",
+        "color7": "#f2c18f",
+        "color8": "#3f2224",
+        "color9": "#ff8925",
+        "color10": "#c2582d",
+        "color11": "#ee6b27",
+        "color12": "#7f4c4f",
+        "color13": "#d9634c",
+        "color14": "#ca412b",
+        "color15": "#fffdbb"
+    }
+}

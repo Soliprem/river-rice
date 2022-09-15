@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lake.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0802",
+        "foreground": "#f5ffff",
+        "cursor": "#f5ffff"
+    },
+    "colors": {
+        "color0": "#0a0802",
+        "color1": "#94621F",
+        "color2": "#685F55",
+        "color3": "#C18E55",
+        "color4": "#617B85",
+        "color5": "#947456",
+        "color6": "#72909C",
+        "color7": "#c0cacf",
+        "color8": "#372b07",
+        "color9": "#cc811c",
+        "color10": "#937c62",
+        "color11": "#ffb95c",
+        "color12": "#6fa6bb",
+        "color13": "#cf9660",
+        "color14": "#82c2dc",
+        "color15": "#f5ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sky_ocean.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C1031",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0C1031",
+        "color1": "#54698D",
+        "color2": "#67939A",
+        "color3": "#2F5E8A",
+        "color4": "#163D81",
+        "color5": "#B27989",
+        "color6": "#35899E",
+        "color7": "#c2c5c7",
+        "color8": "#151c59",
+        "color9": "#5e84c5",
+        "color10": "#75cbd8",
+        "color11": "#317abf",
+        "color12": "#124cb1",
+        "color13": "#fa89a9",
+        "color14": "#37badb",
+        "color15": "#fbffff"
+    }
+}

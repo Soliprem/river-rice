@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/OneDark_landing.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1014",
+        "foreground": "#daffff",
+        "cursor": "#daffff"
+    },
+    "colors": {
+        "color0": "#0f1014",
+        "color1": "#057085",
+        "color2": "#75C47D",
+        "color3": "#588F72",
+        "color4": "#196987",
+        "color5": "#59748F",
+        "color6": "#178988",
+        "color7": "#a4c4c0",
+        "color8": "#242630",
+        "color9": "#0195b2",
+        "color10": "#83ff92",
+        "color11": "#63c893",
+        "color12": "#158dba",
+        "color13": "#6496c8",
+        "color14": "#13bcbb",
+        "color15": "#daffff"
+    }
+}

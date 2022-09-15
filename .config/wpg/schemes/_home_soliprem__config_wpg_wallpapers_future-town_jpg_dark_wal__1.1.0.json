@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/future-town.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d150f",
+        "foreground": "#ffffd5",
+        "cursor": "#ffffd5"
+    },
+    "colors": {
+        "color0": "#1d150f",
+        "color1": "#CD7420",
+        "color2": "#746756",
+        "color3": "#A2865F",
+        "color4": "#8F7657",
+        "color5": "#928566",
+        "color6": "#915B2D",
+        "color7": "#e1c5a3",
+        "color8": "#3e2c1f",
+        "color9": "#ff961a",
+        "color10": "#a38762",
+        "color11": "#e3b06a",
+        "color12": "#c89a62",
+        "color13": "#cdb374",
+        "color14": "#c8752e",
+        "color15": "#ffffd5"
+    }
+}

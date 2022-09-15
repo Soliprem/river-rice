@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/thiemeyer_road_to_samarkand.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c1616",
+        "foreground": "#cee0ff",
+        "cursor": "#cee0ff"
+    },
+    "colors": {
+        "color0": "#0c1616",
+        "color1": "#A66D33",
+        "color2": "#70726C",
+        "color3": "#DAAD42",
+        "color4": "#8A7862",
+        "color5": "#AA8F66",
+        "color6": "#CFA867",
+        "color7": "#9aa8c8",
+        "color8": "#1d3636",
+        "color9": "#e58d34",
+        "color10": "#96a27e",
+        "color11": "#ffe843",
+        "color12": "#c29d70",
+        "color13": "#eebd72",
+        "color14": "#ffdf71",
+        "color15": "#cee0ff"
+    }
+}

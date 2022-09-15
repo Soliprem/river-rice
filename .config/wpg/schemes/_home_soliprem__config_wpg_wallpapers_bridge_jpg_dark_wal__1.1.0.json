@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bridge.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090c03",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#090c03",
+        "color1": "#67674D",
+        "color2": "#708B39",
+        "color3": "#8F9B5A",
+        "color4": "#526723",
+        "color5": "#847B65",
+        "color6": "#ACAE99",
+        "color7": "#e1e2e0",
+        "color8": "#27360a",
+        "color9": "#919158",
+        "color10": "#95c13d",
+        "color11": "#c3d965",
+        "color12": "#6e8e24",
+        "color13": "#baa674",
+        "color14": "#f0f7b1",
+        "color15": "#fffffd"
+    }
+}

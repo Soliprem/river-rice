@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/mate-drink.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181611",
+        "foreground": "#fffff3",
+        "cursor": "#fffff3"
+    },
+    "colors": {
+        "color0": "#181611",
+        "color1": "#97A961",
+        "color2": "#728C2F",
+        "color3": "#BEB254",
+        "color4": "#72A257",
+        "color5": "#9ACC6C",
+        "color6": "#59809A",
+        "color7": "#d9dcc9",
+        "color8": "#353025",
+        "color9": "#ccec6c",
+        "color10": "#99c230",
+        "color11": "#fff55b",
+        "color12": "#8fe260",
+        "color13": "#c7ff78",
+        "color14": "#63a9d7",
+        "color15": "#fffff3"
+    }
+}

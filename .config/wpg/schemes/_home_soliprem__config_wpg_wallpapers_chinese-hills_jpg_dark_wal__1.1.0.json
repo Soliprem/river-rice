@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/chinese-hills.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#272220",
+        "foreground": "#fffff3",
+        "cursor": "#fffff3"
+    },
+    "colors": {
+        "color0": "#272220",
+        "color1": "#D8C39D",
+        "color2": "#E7D8B7",
+        "color3": "#CDB492",
+        "color4": "#EDE0BD",
+        "color5": "#D2BDA2",
+        "color6": "#DDC9A6",
+        "color7": "#ede5d8",
+        "color8": "#423936",
+        "color9": "#ffffb3",
+        "color10": "#ffffc8",
+        "color11": "#ffeda7",
+        "color12": "#ffffc8",
+        "color13": "#fff8ba",
+        "color14": "#ffffbe",
+        "color15": "#fffff3"
+    }
+}

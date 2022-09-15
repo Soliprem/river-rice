@@ -1,0 +1,18 @@
+font=SauceCodePro Nerd Font 12
+width=350
+height=3500
+border-radius=10
+padding=10
+max-history=30
+margin=10
+border-size=2
+default-timeout=5000
+
+progress-color={active}
+background-color={inactive}
+border-color={active}
+text-color={color15}
+
+[urgency=high]
+border-color={color9}
+ignore-timeout=1

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/greek.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121010",
+        "foreground": "#ffffde",
+        "cursor": "#ffffde"
+    },
+    "colors": {
+        "color0": "#121010",
+        "color1": "#EB8843",
+        "color2": "#448B74",
+        "color3": "#FEE96D",
+        "color4": "#F89047",
+        "color5": "#F0A065",
+        "color6": "#FEAC4B",
+        "color7": "#f6dcbe",
+        "color8": "#2c2727",
+        "color9": "#ffad43",
+        "color10": "#4ac29b",
+        "color11": "#ffff76",
+        "color12": "#ffb747",
+        "color13": "#ffcc6d",
+        "color14": "#ffe14c",
+        "color15": "#ffffde"
+    }
+}

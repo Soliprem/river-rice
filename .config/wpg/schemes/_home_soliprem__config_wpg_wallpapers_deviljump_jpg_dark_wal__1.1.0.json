@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/deviljump.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111313",
+        "foreground": "#fffff4",
+        "cursor": "#fffff4"
+    },
+    "colors": {
+        "color0": "#111313",
+        "color1": "#E9852E",
+        "color2": "#6E9773",
+        "color3": "#FE8019",
+        "color4": "#AE9C3B",
+        "color5": "#949A70",
+        "color6": "#66948D",
+        "color7": "#c6c4ba",
+        "color8": "#282d2d",
+        "color9": "#ffab29",
+        "color10": "#7ed588",
+        "color11": "#ffa40e",
+        "color12": "#f1d53d",
+        "color13": "#ccd980",
+        "color14": "#74d0c2",
+        "color15": "#fffff4"
+    }
+}

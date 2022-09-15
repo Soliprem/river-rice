@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/kiddae_OneDark.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131311",
+        "foreground": "#d9faff",
+        "cursor": "#d9faff"
+    },
+    "colors": {
+        "color0": "#131311",
+        "color1": "#AB5146",
+        "color2": "#6286B6",
+        "color3": "#6B95D1",
+        "color4": "#576D94",
+        "color5": "#8A5AAA",
+        "color6": "#7BAFFD",
+        "color7": "#b7d3f6",
+        "color8": "#2d2d28",
+        "color9": "#ed5d4b",
+        "color10": "#6dabfe",
+        "color11": "#76beff",
+        "color12": "#6189cf",
+        "color13": "#b664ed",
+        "color14": "#87deff",
+        "color15": "#d9faff"
+    }
+}

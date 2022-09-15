@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/doomer.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#262b61",
+        "foreground": "#fefaff",
+        "cursor": "#fefaff"
+    },
+    "colors": {
+        "color0": "#262b61",
+        "color1": "#B7C1EC",
+        "color2": "#98A8E2",
+        "color3": "#F9B6EA",
+        "color4": "#8FAFEB",
+        "color5": "#ECA8D7",
+        "color6": "#7494DB",
+        "color7": "#e9e5ee",
+        "color8": "#333a85",
+        "color9": "#c5dbff",
+        "color10": "#adccff",
+        "color11": "#ffbdff",
+        "color12": "#a1dcff",
+        "color13": "#ffbaff",
+        "color14": "#81b8ff",
+        "color15": "#fefaff"
+    }
+}

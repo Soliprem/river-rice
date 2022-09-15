@@ -1,7 +1,7 @@
 {
         "gtk-layer-shell": false,
 	"layer": "top",
-	"modules-left": ["custom/launcher","cpu","memory","custom/media"],
+	"modules-left": ["custom/launcher","cpu","memory","custom/mpc"],
 	"modules-center": ["river/tags"],
 	"modules-right": ["tray","pulseaudio", "network", "clock","custom/power"],
 	
@@ -13,7 +13,9 @@
                "format-icons": {
                 "default": ["奄", "奔", "墳"]
               },
-              "on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle"
+              "on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle",
+              "on-scroll-up": "pamixer -i 5 && notify-volume",
+              "on-scroll-down": "pamixer -d 5 && notify-volume",
 	},
         "river/tags": {
                     "num-tags": 9,
@@ -23,6 +25,39 @@
           "on-click": "activate",
           "all-outputs": true,
         },
+        "river/window": {
+
+            "format": "{}"
+        },
+
+
+
+        "mpd": {
+                "format": "{stateIcon} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ",
+                "format-disconnected": "Disconnected ",
+                "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
+                "unknown-tag": "N/A",
+                "interval": 2,
+                "consume-icons": {
+                    "on": " "
+                },
+                "random-icons": {
+                    "off": "<span color=\"#f53c3c\"></span> ",
+                    "on": " "
+                },
+                "repeat-icons": {
+                    "on": " "
+                },
+                "single-icons": {
+                    "on": "1 "
+                },
+                "state-icons": {
+                    "paused": "",
+                    "playing": ""
+                },
+                "tooltip-format": "MPD (connected)",
+                "tooltip-format-disconnected": "MPD (disconnected)"
+            },
 
 	"network": {
 		"tooltip": false,
@@ -30,11 +65,11 @@
                 "format-alt": "{ipaddr} {icon}",
                 "format-alt-click": "click-right",
                 "format-icons": {
-                  "wifi": [""],
-                  "ethernet": [""],
+                  "wifi": [" "],
+                  "ethernet": [" "],
                   "disconnected": ["睊"],
                 },
-                "on-click": "kitty -e nmtui",
+                "on-click": "foot -e nmtui",
 	},
 	"backlight": {
 	/*	"tooltip": false,
@@ -74,11 +109,13 @@
     },
     "cpu": {
         "interval": 15,
+        "on-click": "foot btop",
         "format": " {}%",
         "max-length": 10
     },
     "memory": {
         "interval": 30,
+        "on-click": "foot btop",
         "format": " {}%",
         "max-length": 10
     },
@@ -92,10 +129,16 @@
         },
         "escape": true,
         "exec": "~/.config/waybar/mediaplayer.py",
-        "on-click": "playerctl play-pause"
+        /* "format-alt": "{}", */
+        /* "format-alt-click": "click-right", */
+        /* "exec-alt": "~/.config/waybar/mpc", */
+        "on-click-right": "mpc toggle",
+        "on-click": "playerctl play-pause",
+        "on-click-middle": "notify-status",
+        
     },
     "custom/launcher":{
-        "format": " ",
+        "format": " ",
         "on-click": "rofi -show run",
         "on-click-right": "killall rofi"
     },
@@ -110,8 +153,19 @@
         "exec": "checkupdates | wc -l",
         "exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",
         "interval": 15,
-        "on-click": "kitty -e yay -Syu && notify-send 'The system has been updated' "
+        "on-click": "foot -e yay -Syu && notify-send 'The system has been updated' "
     },
+    "custom/mpc":{
+        "interval": 1,
+        "format": "{}",
+        "max-length": 20,
+        "exec": "~/.config/waybar/mpc",
+        "on-click": "foot ncmpcpp",
+        "on-click-right": "mpc toggle",
+        "on-click-middle": "notify-status",
+        "on-scroll-up": "mpc next",
+        "on-scroll-down": "mpc prev",
+    }
     /*"custom/wallpaper":{
         "format":" ",
         "on-click": "bash ~/.config/system_scripts/pkill_bc"

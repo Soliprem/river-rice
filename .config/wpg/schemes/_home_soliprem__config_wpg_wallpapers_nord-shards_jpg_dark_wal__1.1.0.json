@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nord-shards.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f131b",
+        "foreground": "#fff7ff",
+        "cursor": "#fff7ff"
+    },
+    "colors": {
+        "color0": "#0f131b",
+        "color1": "#9E6575",
+        "color2": "#57627A",
+        "color3": "#6C8FAE",
+        "color4": "#5B7291",
+        "color5": "#977891",
+        "color6": "#7CACC3",
+        "color7": "#c7c1cd",
+        "color8": "#20293b",
+        "color9": "#de7290",
+        "color10": "#637aac",
+        "color11": "#7abbf4",
+        "color12": "#6691cb",
+        "color13": "#d58ac7",
+        "color14": "#8ce6ff",
+        "color15": "#fff7ff"
+    }
+}
