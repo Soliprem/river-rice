@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-lotr-ranger.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#02090F",
+        "foreground": "#ecffff",
+        "cursor": "#ecffff"
+    },
+    "colors": {
+        "color0": "#02090F",
+        "color1": "#456677",
+        "color2": "#2B5971",
+        "color3": "#29546D",
+        "color4": "#3B6A85",
+        "color5": "#497792",
+        "color6": "#6A92AC",
+        "color7": "#b8cad5",
+        "color8": "#05233d",
+        "color9": "#4d88a6",
+        "color10": "#2d769d",
+        "color11": "#2b6f97",
+        "color12": "#408db9",
+        "color13": "#509ecc",
+        "color14": "#77c1f1",
+        "color15": "#ecffff"
+    }
+}

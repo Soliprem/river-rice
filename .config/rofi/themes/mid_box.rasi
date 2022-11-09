@@ -1,6 +1,6 @@
 
 configuration{
-    modi: "run,drun,filebrowser";
+    modi: "run,drun,calc";
     lines: 5;
     font: "SauceCodePro Nerd 14";
     show-icons: true;
@@ -12,7 +12,7 @@ configuration{
     hide-scrollbar: true;
     display-drun: "   Apps ";
     display-run: "   Run ";
-    display-filebrowser: "   files";
+    display-calc: "   calc";
     display-Network: " 󰤨  Network";
     sidebar-mode: true;
 }

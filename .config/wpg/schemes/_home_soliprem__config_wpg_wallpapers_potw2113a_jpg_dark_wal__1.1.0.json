@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/potw2113a.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0B0E",
+        "foreground": "#dbfbff",
+        "cursor": "#dbfbff"
+    },
+    "colors": {
+        "color0": "#0D0B0E",
+        "color1": "#9A605D",
+        "color2": "#5F8A6C",
+        "color3": "#BC916A",
+        "color4": "#2E619B",
+        "color5": "#9C7396",
+        "color6": "#5E6897",
+        "color7": "#a7c0d9",
+        "color8": "#27202a",
+        "color9": "#d86e68",
+        "color10": "#6cc286",
+        "color11": "#ffbb76",
+        "color12": "#2e7dd6",
+        "color13": "#dc83cf",
+        "color14": "#6a7cd4",
+        "color15": "#dbfbff"
+    }
+}

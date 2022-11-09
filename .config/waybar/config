@@ -1,9 +1,9 @@
 {
         "gtk-layer-shell": false,
 	"layer": "top",
-	"modules-left": ["custom/launcher","cpu","memory","custom/mpc"],
+	"modules-left": ["custom/launcher","tray","cpu","memory","custom/mpc"],
 	"modules-center": ["river/tags"],
-	"modules-right": ["tray","pulseaudio", "network", "clock","custom/power"],
+	"modules-right": ["pulseaudio", "backlight", "network", "clock","battery","custom/power"],
 	
 	"pulseaudio": {
                "tooltip": false,
@@ -75,16 +75,16 @@
 	/*	"tooltip": false,
 		"format": " {}%",
 		"interval":1,
-        "on-scroll-up": "light -A 5",
-		"on-scroll-down": "light -U 5" */
+        "on-scroll-up": "brightnessctl s +5%",
+		"on-scroll-down": "brightnessctl s 5%-" */
         "interval": 2,
         "align": 0,
         "rotate": 0,
         "format": "{icon} {percent}%",
         "format-icons": ["", "", "", ""],
-        "on-click": "",
-        "on-scroll-up": "light -A 5%",
-        "on-scroll-down": "light -U 5%",
+        "on-click": "toggle-wlsunset",
+        "on-scroll-up": "brightnessctl s +5%",
+        "on-scroll-down": "brightnessctl s 5%-",
         "smooth-scrolling-threshold": 1,
 	},
     "battery": {
@@ -132,8 +132,8 @@
         /* "format-alt": "{}", */
         /* "format-alt-click": "click-right", */
         /* "exec-alt": "~/.config/waybar/mpc", */
-        "on-click-right": "mpc toggle",
-        "on-click": "playerctl play-pause",
+        "on-click": "mpc toggle",
+        "on-click-right": "playerctl play-pause",
         "on-click-middle": "notify-status",
         
     },
@@ -160,8 +160,8 @@
         "format": "{}",
         "max-length": 20,
         "exec": "~/.config/waybar/mpc",
-        "on-click": "foot ncmpcpp",
-        "on-click-right": "mpc toggle",
+        "on-click-right": "foot ncmpcpp",
+        "on-click": "mpc toggle",
         "on-click-middle": "notify-status",
         "on-scroll-up": "mpc next",
         "on-scroll-down": "mpc prev",

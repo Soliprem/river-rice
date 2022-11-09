@@ -12,9 +12,13 @@
 # Use the "logo" key as the primary modifier
 mod="Mod4"
 
+riverctl input 1739:52390:DELL095D:00_06CB:CCA6_Touchpad tap enabled
+riverctl input 1739:52390:DELL095D:00_06CB:CCA6_Touchpad tap-button-map left-right-middle
+
 # Mod+D to launch rofi
 riverctl map -repeat normal $mod D spawn "rofi -show run"
 riverctl map -repeat normal $mod+Shift D spawn "rofi -show drun"
+riverctl map -repeat normal $mod+Shift C spawn "rofi -show calc"
 
 # Bind useful Scripts
 riverctl map -repeat normal $mod g spawn "dm-dictionary"
@@ -25,7 +29,7 @@ riverctl map -repeat normal $mod c spawn "dm-spellcheck"
 riverctl map -repeat normal $mod n spawn "foot nvim -c VimwikiIndex"
 riverctl map -repeat normal Print spawn "wayshot --stdout | wl-copy"
 riverctl map -repeat normal Shift Print spawn "wayshotpick"
-riverctl map -repeat normal $mod BackSpace spawn  "wlogout -p layer-shell"
+riverctl map -repeat normal $mod BackSpace spawn "wlogout -p layer-shell"
 
 # Mod+M to launch ncmpcpp
 riverctl map -repeat normal $mod M spawn "foot ncmpcpp"
@@ -100,7 +104,6 @@ riverctl map-pointer normal $mod BTN_LEFT move-view
 # Mod + Right Mouse Button to resize views
 riverctl map-pointer normal $mod BTN_RIGHT resize-view
 
-
 #Sticky
 # all_tags=$(((1 << 32) - 1))
 # sticky_tag=$((1 << 31))
@@ -109,10 +112,9 @@ riverctl map-pointer normal $mod BTN_RIGHT resize-view
 # riverctl map normal Super S toggle-view-tags $sticky_tag
 # riverctl spawn-tagmask ${all_but_sticky_tag}
 
-
 # The scratchpad will live on an unused tag. Which tags are used depends on your
 # config, but rivers default uses the first 9 tags.
-scratch_tag=$((1 << 20 ))
+scratch_tag=$((1 << 20))
 
 # Toggle the scratchpad with Super+P
 riverctl map normal Super y toggle-focused-tags ${scratch_tag}
@@ -122,17 +124,15 @@ riverctl map normal Super+Shift y set-view-tags ${scratch_tag}
 
 # Set spawn tagmask to ensure new windows don't have the scratchpad tag unless
 # explicitly set.
-all_but_scratch_tag=$(( ((1 << 32) - 1) ^ scratch_tag ))
+all_but_scratch_tag=$((((1 << 32) - 1) ^ scratch_tag))
 riverctl spawn-tagmask ${all_but_scratch_tag}
-
-
 
 for i in $(seq 1 9); do
 	tags=$((1 << (i - 1)))
 
 	# Mod+[1-9] to focus tag [0-8]
 	# riverctl map normal $mod $i set-focused-tags $tags, modified to support sticky
-    riverctl map normal Super $i set-focused-tags $tags # (($sticky_tag + $tags))
+	riverctl map normal Super $i set-focused-tags $tags # (($sticky_tag + $tags))
 
 	# Mod+Shift+[1-9] to tag focused view with tag [0-8]
 	riverctl map normal $mod+Shift $i set-view-tags $tags
@@ -195,8 +195,8 @@ for mode in normal locked; do
 	riverctl map -repeat $mode None XF86AudioNext spawn 'playerctl next'
 
 	# Control screen backlight brighness with light (https://github.com/haikarainen/light)
-	riverctl map -repeat $mode None XF86MonBrightnessUp spawn 'brightnessctl s +5%'
-	riverctl map -repeat $mode None XF86MonBrightnessDown spawn 'brightnessctl s 5%-'
+	riverctl map -repeat $mode None XF86MonBrightnessUp spawn 'brightnessctl s +5% && notify-brightness'
+	riverctl map -repeat $mode None XF86MonBrightnessDown spawn 'brightnessctl s 5%- && notify-brightness'
 done
 
 # Set background and border color
@@ -218,24 +218,23 @@ riverctl float-filter-add title "popup title with spaces"
 ## Autostart
 # Starts sound stuff
 riverctl spawn "pipewire"
-riverctl spawn "waybar"
+riverctl spawn "waybar-restart"
 riverctl spawn "pipewire-pulse"
 riverctl spawn "wireplumber"
 # Sets wallpaper and launches bar
 riverctl spawn "swaybg -i $HOME/.config/wpg/.current"
-# riverctl spawn "waybar"
 # Starts music player daemon and button support
 riverctl spawn "mpd"
+riverctl spawn "mpd-notification -m ~/Music"
 # Allows GUI programs to be run as root
 riverctl spawn "/usr/lib/xfce-polkit/xfce-polkit"
 # refresh rate
-riverctl spawn "wlr-randr --output HDMI-A-1 --mode 1920x1080@120Hz"
+# riverctl spawn "wlr-randr --output HDMI-A-1 --mode 1920x1080@120Hz"
 # notifications
 riverctl spawn "mako"
 riverctl spawn "blueman-applet"
 # Loads a random song so the bar module looks good
 # riverctl spawn "sleep 1 && ransong"
-
 
 # Set and exec into the default layout generator, rivertile.
 # River will send the process group of the init executable SIGTERM on exit.

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nasa--hI5dX2ObAs-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#16201e",
+        "foreground": "#ffffd7",
+        "cursor": "#ffffd7"
+    },
+    "colors": {
+        "color0": "#16201e",
+        "color1": "#A23C03",
+        "color2": "#94744C",
+        "color3": "#C5752F",
+        "color4": "#965A21",
+        "color5": "#A68B5F",
+        "color6": "#8C3602",
+        "color7": "#ddc4a4",
+        "color8": "#2a3d39",
+        "color9": "#d54d01",
+        "color10": "#ce9854",
+        "color11": "#ff972d",
+        "color12": "#ce741e",
+        "color13": "#e8b86a",
+        "color14": "#b74501",
+        "color15": "#ffffd7"
+    }
+}

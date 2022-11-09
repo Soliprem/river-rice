@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/the-new-york-public-library-yEauzeZU6xo-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c070c",
+        "foreground": "#fffff4",
+        "cursor": "#fffff4"
+    },
+    "colors": {
+        "color0": "#0c070c",
+        "color1": "#8C7566",
+        "color2": "#6F706E",
+        "color3": "#C4A074",
+        "color4": "#9C8A75",
+        "color5": "#A5A091",
+        "color6": "#708182",
+        "color7": "#d9d4c8",
+        "color8": "#2c182c",
+        "color9": "#c59474",
+        "color10": "#909f80",
+        "color11": "#ffd282",
+        "color12": "#dcb486",
+        "color13": "#eadaa8",
+        "color14": "#81b5b8",
+        "color15": "#fffff4"
+    }
+}
