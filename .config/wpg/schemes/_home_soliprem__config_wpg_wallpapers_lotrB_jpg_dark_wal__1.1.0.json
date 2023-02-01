@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lotrB.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0D19",
+        "foreground": "#fffff3",
+        "cursor": "#fffff3"
+    },
+    "colors": {
+        "color0": "#0E0D19",
+        "color1": "#B6664C",
+        "color2": "#716F68",
+        "color3": "#D89E6F",
+        "color4": "#8A7769",
+        "color5": "#998A77",
+        "color6": "#7D8177",
+        "color7": "#cdc5bb",
+        "color8": "#201d3a",
+        "color9": "#fd7c52",
+        "color10": "#a09879",
+        "color11": "#ffcb7b",
+        "color12": "#c39878",
+        "color13": "#d8b589",
+        "color14": "#a5b78a",
+        "color15": "#fffff3"
+    }
+}

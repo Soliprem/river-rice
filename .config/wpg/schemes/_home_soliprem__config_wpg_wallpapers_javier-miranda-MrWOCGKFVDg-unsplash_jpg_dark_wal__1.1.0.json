@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/javier-miranda-MrWOCGKFVDg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0a0d",
+        "foreground": "#e4eff8",
+        "cursor": "#e4eff8"
+    },
+    "colors": {
+        "color0": "#0b0a0d",
+        "color1": "#8C7370",
+        "color2": "#4D5256",
+        "color3": "#596773",
+        "color4": "#4E5966",
+        "color5": "#656C74",
+        "color6": "#5D7180",
+        "color7": "#abb3ba",
+        "color8": "#221f29",
+        "color9": "#c68881",
+        "color10": "#596b7a",
+        "color11": "#6686a2",
+        "color12": "#597290",
+        "color13": "#758ba4",
+        "color14": "#6a94b4",
+        "color15": "#e4eff8"
+    }
+}

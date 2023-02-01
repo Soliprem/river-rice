@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/constructed-ix.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090909",
+        "foreground": "#d1fdff",
+        "cursor": "#d1fdff"
+    },
+    "colors": {
+        "color0": "#090909",
+        "color1": "#E2661B",
+        "color2": "#E8B960",
+        "color3": "#F9921F",
+        "color4": "#F87009",
+        "color5": "#B4553C",
+        "color6": "#F79E5A",
+        "color7": "#9ebfd0",
+        "color8": "#222222",
+        "color9": "#ff8012",
+        "color10": "#fff767",
+        "color11": "#ffbe15",
+        "color12": "#ff9001",
+        "color13": "#f9653e",
+        "color14": "#ffca5f",
+        "color15": "#d1fdff"
+    }
+}

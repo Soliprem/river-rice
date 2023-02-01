@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/03-Only-Yesterday.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D191B",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#0D191B",
+        "color1": "#A29718",
+        "color2": "#D9B558",
+        "color3": "#CAAE47",
+        "color4": "#B8C7BA",
+        "color5": "#9EAFA4",
+        "color6": "#A4C1B3",
+        "color7": "#dfdcca",
+        "color8": "#1c383d",
+        "color9": "#dece12",
+        "color10": "#fff45e",
+        "color11": "#ffec4a",
+        "color12": "#d6ffdf",
+        "color13": "#b7f9ce",
+        "color14": "#beffe9",
+        "color15": "#fffff2"
+    }
+}

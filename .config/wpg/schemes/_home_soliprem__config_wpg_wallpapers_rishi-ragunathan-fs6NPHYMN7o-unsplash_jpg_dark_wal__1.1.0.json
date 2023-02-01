@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/rishi-ragunathan-fs6NPHYMN7o-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030303",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#030303",
+        "color1": "#575757",
+        "color2": "#474747",
+        "color3": "#8F8F8F",
+        "color4": "#6D6D6D",
+        "color5": "#3B3B3B",
+        "color6": "#333333",
+        "color7": "#cecece",
+        "color8": "#1c1c1c",
+        "color9": "#7c6565",
+        "color10": "#655353",
+        "color11": "#cca7a7",
+        "color12": "#9b7f7f",
+        "color13": "#544545",
+        "color14": "#483b3b",
+        "color15": "#ffffff"
+    }
+}

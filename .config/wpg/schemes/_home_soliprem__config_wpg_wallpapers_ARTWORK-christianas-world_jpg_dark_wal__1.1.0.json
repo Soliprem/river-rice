@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-christianas-world.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#221c0f",
+        "foreground": "#fffff5",
+        "cursor": "#fffff5"
+    },
+    "colors": {
+        "color0": "#221c0f",
+        "color1": "#98756A",
+        "color2": "#7D816F",
+        "color3": "#C2AA79",
+        "color4": "#A19468",
+        "color5": "#AEAC9F",
+        "color6": "#958C69",
+        "color7": "#dad3cb",
+        "color8": "#45381d",
+        "color9": "#d68f79",
+        "color10": "#abb780",
+        "color11": "#ffe488",
+        "color12": "#e2c976",
+        "color13": "#f7efb9",
+        "color14": "#d2bf78",
+        "color15": "#fffff5"
+    }
+}

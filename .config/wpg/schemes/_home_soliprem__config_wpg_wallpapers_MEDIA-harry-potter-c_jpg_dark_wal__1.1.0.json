@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-harry-potter-c.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0b0b",
+        "foreground": "#f2fcff",
+        "cursor": "#f2fcff"
+    },
+    "colors": {
+        "color0": "#0d0b0b",
+        "color1": "#955E35",
+        "color2": "#645751",
+        "color3": "#B5916D",
+        "color4": "#7B7E88",
+        "color5": "#A39FA3",
+        "color6": "#916F5A",
+        "color7": "#c9d1dd",
+        "color8": "#282121",
+        "color9": "#ce7837",
+        "color10": "#8d6c5d",
+        "color11": "#febc7a",
+        "color12": "#8f9ac1",
+        "color13": "#e8b9e8",
+        "color14": "#cb8c65",
+        "color15": "#f2fcff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lachlan-dempsey-black-whales.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020D1E",
+        "foreground": "#dbfafd",
+        "cursor": "#dbfafd"
+    },
+    "colors": {
+        "color0": "#020D1E",
+        "color1": "#9C7A7D",
+        "color2": "#055466",
+        "color3": "#2E5E6C",
+        "color4": "#0D6773",
+        "color5": "#57606D",
+        "color6": "#517785",
+        "color7": "#a4bbbd",
+        "color8": "#03204e",
+        "color9": "#dc8c93",
+        "color10": "#01708a",
+        "color11": "#317f96",
+        "color12": "#088c9d",
+        "color13": "#647a9a",
+        "color14": "#5ba1ba",
+        "color15": "#dbfafd"
+    }
+}

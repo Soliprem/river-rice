@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bird_wings_sunset_171992_3840x2160.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#221816",
+        "foreground": "#e6f8f9",
+        "cursor": "#e6f8f9"
+    },
+    "colors": {
+        "color0": "#221816",
+        "color1": "#954037",
+        "color2": "#548588",
+        "color3": "#9A6F6C",
+        "color4": "#3E7E82",
+        "color5": "#557E81",
+        "color6": "#3F8084",
+        "color7": "#adbabb",
+        "color8": "#402d29",
+        "color9": "#ce483a",
+        "color10": "#5eb9bf",
+        "color11": "#d9817b",
+        "color12": "#44aeb5",
+        "color13": "#60afb5",
+        "color14": "#45b1b8",
+        "color15": "#e6f8f9"
+    }
+}

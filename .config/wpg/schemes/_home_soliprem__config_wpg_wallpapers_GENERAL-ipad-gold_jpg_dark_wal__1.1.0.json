@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/GENERAL-ipad-gold.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E3E4A",
+        "foreground": "#fffdf9",
+        "cursor": "#fffdf9"
+    },
+    "colors": {
+        "color0": "#0E3E4A",
+        "color1": "#EADACE",
+        "color2": "#9EC4BD",
+        "color3": "#D8B795",
+        "color4": "#D4D7D6",
+        "color5": "#DFCAB2",
+        "color6": "#2FCBC2",
+        "color7": "#eee8e4",
+        "color8": "#156174",
+        "color9": "#fff9d5",
+        "color10": "#b6ffff",
+        "color11": "#ffeeaa",
+        "color12": "#e3ffff",
+        "color13": "#ffffc8",
+        "color14": "#2cffff",
+        "color15": "#fffdf9"
+    }
+}

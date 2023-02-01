@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-blade-runner-a.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#240e00",
+        "foreground": "#ffffb5",
+        "cursor": "#ffffb5"
+    },
+    "colors": {
+        "color0": "#240e00",
+        "color1": "#D96707",
+        "color2": "#E5770E",
+        "color3": "#FFC124",
+        "color4": "#FEA81D",
+        "color5": "#F79217",
+        "color6": "#FFB722",
+        "color7": "#f6da8a",
+        "color8": "#552101",
+        "color9": "#ff8501",
+        "color10": "#ff9a02",
+        "color11": "#ffff1b",
+        "color12": "#ffde13",
+        "color13": "#ffbf0c",
+        "color14": "#fff419",
+        "color15": "#ffffb5"
+    }
+}

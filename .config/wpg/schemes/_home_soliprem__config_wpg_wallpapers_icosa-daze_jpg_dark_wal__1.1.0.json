@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/icosa-daze.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0F0F",
+        "foreground": "#fff6f5",
+        "cursor": "#fff6f5"
+    },
+    "colors": {
+        "color0": "#0F0F0F",
+        "color1": "#ED1A0D",
+        "color2": "#706F6E",
+        "color3": "#B3847D",
+        "color4": "#9E1811",
+        "color5": "#B56157",
+        "color6": "#9F9D9D",
+        "color7": "#decfce",
+        "color8": "#282828",
+        "color9": "#ff1301",
+        "color10": "#9f9080",
+        "color11": "#fc9c8e",
+        "color12": "#d8140a",
+        "color13": "#fc705f",
+        "color14": "#e3b7b7",
+        "color15": "#fff6f5"
+    }
+}

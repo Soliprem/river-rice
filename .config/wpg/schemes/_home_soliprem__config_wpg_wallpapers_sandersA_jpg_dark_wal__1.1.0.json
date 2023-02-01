@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sandersA.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101010",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#5B5B5B",
+        "color2": "#686868",
+        "color3": "#ADADAD",
+        "color4": "#777777",
+        "color5": "#979797",
+        "color6": "#878787",
+        "color7": "#dedede",
+        "color8": "#292929",
+        "color9": "#826a6a",
+        "color10": "#947979",
+        "color11": "#f7caca",
+        "color12": "#aa8b8b",
+        "color13": "#d7b0b0",
+        "color14": "#c09e9e",
+        "color15": "#ffffff"
+    }
+}

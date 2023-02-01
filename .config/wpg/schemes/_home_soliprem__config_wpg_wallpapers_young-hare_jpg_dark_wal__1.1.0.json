@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/young-hare.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2a241f",
+        "foreground": "#fffff6",
+        "cursor": "#fffff6"
+    },
+    "colors": {
+        "color0": "#2a241f",
+        "color1": "#DCC6A2",
+        "color2": "#DBCCB4",
+        "color3": "#C5A076",
+        "color4": "#E3D2B9",
+        "color5": "#ADA190",
+        "color6": "#C7B7A1",
+        "color7": "#e9e4da",
+        "color8": "#463c34",
+        "color9": "#ffffb9",
+        "color10": "#ffffcc",
+        "color11": "#ffd184",
+        "color12": "#ffffcb",
+        "color13": "#f5d4a6",
+        "color14": "#fff1b9",
+        "color15": "#fffff6"
+    }
+}

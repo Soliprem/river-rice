@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-hogsmead.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0d0f",
+        "foreground": "#e2fbff",
+        "cursor": "#e2fbff"
+    },
+    "colors": {
+        "color0": "#0c0d0f",
+        "color1": "#93665A",
+        "color2": "#4C5867",
+        "color3": "#344960",
+        "color4": "#0F6EBD",
+        "color5": "#56718F",
+        "color6": "#1457A0",
+        "color7": "#acbfcd",
+        "color8": "#22242b",
+        "color9": "#ce7b65",
+        "color10": "#577191",
+        "color11": "#395e86",
+        "color12": "#0690ff",
+        "color13": "#6092c8",
+        "color14": "#0e70db",
+        "color15": "#e2fbff"
+    }
+}

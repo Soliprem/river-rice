@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/2mvsscy380gz.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#140f10",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#140f10",
+        "color1": "#DAC4B9",
+        "color2": "#E9DAD4",
+        "color3": "#CCB2A8",
+        "color4": "#EEE2DD",
+        "color5": "#AC9C9D",
+        "color6": "#D8D0CF",
+        "color7": "#e2e5e8",
+        "color8": "#302426",
+        "color9": "#ffefd0",
+        "color10": "#ffeed9",
+        "color11": "#ffdcc2",
+        "color12": "#fff0dc",
+        "color13": "#f4b5b9",
+        "color14": "#ffe7e0",
+        "color15": "#fbffff"
+    }
+}

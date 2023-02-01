@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/anna-wangler-_GqwoiT7QY8-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0F0F",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#0F0F0F",
+        "color1": "#7E7E7E",
+        "color2": "#808080",
+        "color3": "#ADADAD",
+        "color4": "#838383",
+        "color5": "#8F8F8F",
+        "color6": "#858585",
+        "color7": "#dedede",
+        "color8": "#282828",
+        "color9": "#b49393",
+        "color10": "#b69595",
+        "color11": "#f7caca",
+        "color12": "#bb9999",
+        "color13": "#cca7a7",
+        "color14": "#be9b9b",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-battlefield-4.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c09",
+        "foreground": "#f9ffff",
+        "cursor": "#f9ffff"
+    },
+    "colors": {
+        "color0": "#0c0c09",
+        "color1": "#CAD6DF",
+        "color2": "#BED3E1",
+        "color3": "#C8BDB6",
+        "color4": "#B7C7D2",
+        "color5": "#97A5AF",
+        "color6": "#ABBAC6",
+        "color7": "#e3e9ed",
+        "color8": "#28281e",
+        "color9": "#d8ffff",
+        "color10": "#d0ffff",
+        "color11": "#fff0d3",
+        "color12": "#d4ffff",
+        "color13": "#afdaf8",
+        "color14": "#c6f4ff",
+        "color15": "#f9ffff"
+    }
+}

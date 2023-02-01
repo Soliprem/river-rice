@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/planetOApesB.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d100f",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0d100f",
+        "color1": "#D3DCE2",
+        "color2": "#C8D3DA",
+        "color3": "#BBC0BF",
+        "color4": "#BED2E1",
+        "color5": "#BAC7D0",
+        "color6": "#AEBBC5",
+        "color7": "#e5e8eb",
+        "color8": "#232b28",
+        "color9": "#dcffff",
+        "color10": "#daffff",
+        "color11": "#daffff",
+        "color12": "#d0ffff",
+        "color13": "#d7ffff",
+        "color14": "#caf6ff",
+        "color15": "#fbffff"
+    }
+}

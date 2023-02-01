@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/andrew-neel-uQqNvGDRjjg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090c0c",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#090c0c",
+        "color1": "#E8E2DE",
+        "color2": "#C7D9E4",
+        "color3": "#E4DCD9",
+        "color4": "#BED3E1",
+        "color5": "#CAD4DA",
+        "color6": "#B6CDDB",
+        "color7": "#e2e9ee",
+        "color8": "#1e2828",
+        "color9": "#fff8df",
+        "color10": "#d4ffff",
+        "color11": "#fff0df",
+        "color12": "#d0ffff",
+        "color13": "#dbffff",
+        "color14": "#ceffff",
+        "color15": "#f8ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/folies-bergere.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0c0e",
+        "foreground": "#fffffb",
+        "cursor": "#fffffb"
+    },
+    "colors": {
+        "color0": "#0d0c0e",
+        "color1": "#A56927",
+        "color2": "#6E6660",
+        "color3": "#CF9C59",
+        "color4": "#7B7E81",
+        "color5": "#9B8B72",
+        "color6": "#8B7663",
+        "color7": "#c7c5c1",
+        "color8": "#262229",
+        "color9": "#e38925",
+        "color10": "#9c826f",
+        "color11": "#ffcd60",
+        "color12": "#8fa3b7",
+        "color13": "#dab882",
+        "color14": "#c49871",
+        "color15": "#fffffb"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/carpenter_brut.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#fffff7",
+        "cursor": "#fffff7"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#9B8E6F",
+        "color2": "#C5BAA8",
+        "color3": "#C2AA48",
+        "color4": "#315399",
+        "color5": "#A8A69C",
+        "color6": "#579EA7",
+        "color7": "#dddad0",
+        "color8": "#191919",
+        "color9": "#dabf7f",
+        "color10": "#fff7c2",
+        "color11": "#ffe74c",
+        "color12": "#3267d4",
+        "color13": "#efe5b5",
+        "color14": "#60dae9",
+        "color15": "#fffff7"
+    }
+}

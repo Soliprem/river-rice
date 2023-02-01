@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/awake-ii.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A040F",
+        "foreground": "#f6fbff",
+        "cursor": "#f6fbff"
+    },
+    "colors": {
+        "color0": "#0A040F",
+        "color1": "#93575E",
+        "color2": "#529DA6",
+        "color3": "#E08F42",
+        "color4": "#486296",
+        "color5": "#977293",
+        "color6": "#6BC0C8",
+        "color7": "#c6cad4",
+        "color8": "#240c38",
+        "color9": "#ce616e",
+        "color10": "#5ad8e7",
+        "color11": "#ffb942",
+        "color12": "#4f7ad1",
+        "color13": "#d583cc",
+        "color14": "#77ffff",
+        "color15": "#f6fbff"
+    }
+}

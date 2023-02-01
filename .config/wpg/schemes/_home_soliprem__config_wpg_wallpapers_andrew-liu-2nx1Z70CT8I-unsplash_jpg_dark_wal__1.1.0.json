@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/andrew-liu-2nx1Z70CT8I-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c0c",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#0c0c0c",
+        "color1": "#909090",
+        "color2": "#7E8281",
+        "color3": "#B1B1B1",
+        "color4": "#D0D0D0",
+        "color5": "#BFC0C0",
+        "color6": "#9FA0A0",
+        "color7": "#e6e7e7",
+        "color8": "#252525",
+        "color9": "#cda8a8",
+        "color10": "#93b9af",
+        "color11": "#fdcfcf",
+        "color12": "#ffe5e5",
+        "color13": "#dfffff",
+        "color14": "#bae4e4",
+        "color15": "#feffff"
+    }
+}

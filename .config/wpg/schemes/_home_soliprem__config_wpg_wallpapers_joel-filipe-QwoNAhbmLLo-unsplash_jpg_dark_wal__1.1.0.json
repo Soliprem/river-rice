@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b040a",
+        "foreground": "#ebecf9",
+        "cursor": "#ebecf9"
+    },
+    "colors": {
+        "color0": "#0b040a",
+        "color1": "#D17327",
+        "color2": "#9B6D5A",
+        "color3": "#D58A46",
+        "color4": "#63535D",
+        "color5": "#E19461",
+        "color6": "#9E5725",
+        "color7": "#b1b2bc",
+        "color8": "#310f2c",
+        "color9": "#ff9322",
+        "color10": "#d98765",
+        "color11": "#ffb248",
+        "color12": "#8c607b",
+        "color13": "#ffbc69",
+        "color14": "#da6e23",
+        "color15": "#ebecf9"
+    }
+}

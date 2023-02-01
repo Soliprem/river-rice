@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/theNinthWave.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131110",
+        "foreground": "#ffffec",
+        "cursor": "#ffffec"
+    },
+    "colors": {
+        "color0": "#131110",
+        "color1": "#AE885F",
+        "color2": "#C79D6A",
+        "color3": "#E5C777",
+        "color4": "#767089",
+        "color5": "#B68C6C",
+        "color6": "#D2AC6C",
+        "color7": "#dbcfbd",
+        "color8": "#2e2926",
+        "color9": "#f3b16a",
+        "color10": "#ffce75",
+        "color11": "#ffff84",
+        "color12": "#9181c2",
+        "color13": "#ffb379",
+        "color14": "#ffe477",
+        "color15": "#ffffec"
+    }
+}

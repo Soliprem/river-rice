@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/GENERAL-black-sea.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060606",
+        "foreground": "#e5e5e5",
+        "cursor": "#e5e5e5"
+    },
+    "colors": {
+        "color0": "#060606",
+        "color1": "#545454",
+        "color2": "#4B4B4B",
+        "color3": "#3B3B3B",
+        "color4": "#434343",
+        "color5": "#333333",
+        "color6": "#2B2B2B",
+        "color7": "#a9a9a9",
+        "color8": "#1f1f1f",
+        "color9": "#786262",
+        "color10": "#6b5757",
+        "color11": "#544545",
+        "color12": "#5f4e4e",
+        "color13": "#483b3b",
+        "color14": "#3d3232",
+        "color15": "#e5e5e5"
+    }
+}

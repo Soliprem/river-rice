@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-echo-and-narcassias.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201c0b",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#201c0b",
+        "color1": "#C96742",
+        "color2": "#7A8759",
+        "color3": "#CCA161",
+        "color4": "#8F7551",
+        "color5": "#A18D61",
+        "color6": "#936631",
+        "color7": "#ded4ca",
+        "color8": "#453c17",
+        "color9": "#ff7e44",
+        "color10": "#a4be65",
+        "color11": "#ffd56a",
+        "color12": "#c89a5a",
+        "color13": "#e2bd6d",
+        "color14": "#cb8532",
+        "color15": "#fffff2"
+    }
+}

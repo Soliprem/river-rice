@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/flavio-gasperini-dolphin-coming-up-for-air.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070F16",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#070F16",
+        "color1": "#887E71",
+        "color2": "#939C99",
+        "color3": "#B2B5B0",
+        "color4": "#4B7885",
+        "color5": "#BEC1BC",
+        "color6": "#6D8A8F",
+        "color7": "#d8d8d5",
+        "color8": "#12283c",
+        "color9": "#c0a582",
+        "color10": "#abdecd",
+        "color11": "#e2ffcd",
+        "color12": "#53a3ba",
+        "color13": "#f2ffdb",
+        "color14": "#7dbeca",
+        "color15": "#fffffd"
+    }
+}

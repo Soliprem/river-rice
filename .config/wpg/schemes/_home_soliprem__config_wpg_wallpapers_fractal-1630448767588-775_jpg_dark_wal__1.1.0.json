@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/fractal-1630448767588-775.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E3753",
+        "foreground": "#f7ffff",
+        "cursor": "#f7ffff"
+    },
+    "colors": {
+        "color0": "#0E3753",
+        "color1": "#5F91AA",
+        "color2": "#4F788F",
+        "color3": "#E7DFA1",
+        "color4": "#276F8F",
+        "color5": "#A1A594",
+        "color6": "#4B92B3",
+        "color7": "#ccd6d8",
+        "color8": "#14537e",
+        "color9": "#6ac2ee",
+        "color10": "#58a0c8",
+        "color11": "#ffffb7",
+        "color12": "#2694c5",
+        "color13": "#dceaac",
+        "color14": "#50c3f9",
+        "color15": "#f7ffff"
+    }
+}

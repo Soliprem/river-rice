@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/alex-perez-marco-island.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0b0c",
+        "foreground": "#d1feff",
+        "cursor": "#d1feff"
+    },
+    "colors": {
+        "color0": "#0b0b0c",
+        "color1": "#906C39",
+        "color2": "#275765",
+        "color3": "#174753",
+        "color4": "#3B7786",
+        "color5": "#293A46",
+        "color6": "#565A5C",
+        "color7": "#9cbec4",
+        "color8": "#222226",
+        "color9": "#c88e3d",
+        "color10": "#29768c",
+        "color11": "#166072",
+        "color12": "#40a2ba",
+        "color13": "#2e4c62",
+        "color14": "#647883",
+        "color15": "#d1feff"
+    }
+}

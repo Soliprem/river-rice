@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/andre-benz-JBkwaYMuhdc-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0f11",
+        "foreground": "#e2f9ff",
+        "cursor": "#e2f9ff"
+    },
+    "colors": {
+        "color0": "#0b0f11",
+        "color1": "#525C61",
+        "color2": "#2E5766",
+        "color3": "#1C4452",
+        "color4": "#346472",
+        "color5": "#294753",
+        "color6": "#4F7885",
+        "color7": "#aabcc2",
+        "color8": "#1e292f",
+        "color9": "#5f7b89",
+        "color10": "#32758e",
+        "color11": "#1d5b71",
+        "color12": "#38879f",
+        "color13": "#2d5f73",
+        "color14": "#58a3ba",
+        "color15": "#e2f9ff"
+    }
+}

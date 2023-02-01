@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/windows-xp-bliss-4k-lu.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18200c",
+        "foreground": "#ecf9ff",
+        "cursor": "#ecf9ff"
+    },
+    "colors": {
+        "color0": "#18200c",
+        "color1": "#477AED",
+        "color2": "#748CA5",
+        "color3": "#90A1A9",
+        "color4": "#316BEB",
+        "color5": "#91B0F1",
+        "color6": "#6492F0",
+        "color7": "#cfdbf0",
+        "color8": "#334419",
+        "color9": "#4896ff",
+        "color10": "#84b5e8",
+        "color11": "#a6d8ef",
+        "color12": "#2d84ff",
+        "color13": "#a3dbff",
+        "color14": "#6bb6ff",
+        "color15": "#ecf9ff"
+    }
+}

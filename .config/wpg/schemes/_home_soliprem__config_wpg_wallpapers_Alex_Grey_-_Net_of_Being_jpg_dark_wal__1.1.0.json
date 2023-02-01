@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Alex_Grey_-_Net_of_Being.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#130c12",
+        "foreground": "#fffaf6",
+        "cursor": "#fffaf6"
+    },
+    "colors": {
+        "color0": "#130c12",
+        "color1": "#DC5F54",
+        "color2": "#A75B53",
+        "color3": "#D3A856",
+        "color4": "#606498",
+        "color5": "#867F99",
+        "color6": "#E39D5E",
+        "color7": "#d9cecb",
+        "color8": "#321e2f",
+        "color9": "#ff6a59",
+        "color10": "#e9695b",
+        "color11": "#ffe05c",
+        "color12": "#6c74d5",
+        "color13": "#a592d9",
+        "color14": "#ffcb65",
+        "color15": "#fffaf6"
+    }
+}

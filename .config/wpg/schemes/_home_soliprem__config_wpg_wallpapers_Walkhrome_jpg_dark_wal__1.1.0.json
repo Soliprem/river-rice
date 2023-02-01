@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Walkhrome.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060911",
+        "foreground": "#fffff4",
+        "cursor": "#fffff4"
+    },
+    "colors": {
+        "color0": "#060911",
+        "color1": "#8F6E46",
+        "color2": "#2B8679",
+        "color3": "#9A9473",
+        "color4": "#007A81",
+        "color5": "#668A73",
+        "color6": "#599D8B",
+        "color7": "#cacdbd",
+        "color8": "#111c37",
+        "color9": "#c7904d",
+        "color10": "#2cb9a5",
+        "color11": "#d9cc84",
+        "color12": "#019da6",
+        "color13": "#75c291",
+        "color14": "#63dcbc",
+        "color15": "#fffff4"
+    }
+}

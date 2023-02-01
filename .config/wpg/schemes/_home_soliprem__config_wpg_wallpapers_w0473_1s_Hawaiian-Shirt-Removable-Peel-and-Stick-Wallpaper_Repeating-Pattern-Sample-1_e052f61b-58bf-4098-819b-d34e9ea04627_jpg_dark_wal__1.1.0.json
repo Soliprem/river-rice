@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/w0473_1s_Hawaiian-Shirt-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_e052f61b-58bf-4098-819b-d34e9ea04627.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#03041B",
+        "foreground": "#fcfffd",
+        "cursor": "#fcfffd"
+    },
+    "colors": {
+        "color0": "#03041B",
+        "color1": "#5D9E9D",
+        "color2": "#4C8C63",
+        "color3": "#A6A73E",
+        "color4": "#496E8B",
+        "color5": "#A66B90",
+        "color6": "#2B999D",
+        "color7": "#c5c9c6",
+        "color8": "#060949",
+        "color9": "#68dddb",
+        "color10": "#54c47c",
+        "color11": "#e6e841",
+        "color12": "#5190c2",
+        "color13": "#e979bf",
+        "color14": "#2ad3d9",
+        "color15": "#fcfffd"
+    }
+}

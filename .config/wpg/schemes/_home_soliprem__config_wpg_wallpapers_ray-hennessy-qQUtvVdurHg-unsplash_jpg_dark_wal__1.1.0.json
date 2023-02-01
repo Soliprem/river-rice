@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ray-hennessy-qQUtvVdurHg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#36251a",
+        "foreground": "#eafeff",
+        "cursor": "#eafeff"
+    },
+    "colors": {
+        "color0": "#36251a",
+        "color1": "#90B1D2",
+        "color2": "#8B98AF",
+        "color3": "#C5AC8F",
+        "color4": "#748CAB",
+        "color5": "#989AA5",
+        "color6": "#7BA1C8",
+        "color7": "#c2d3e4",
+        "color8": "#573c2a",
+        "color9": "#a4e6ff",
+        "color10": "#a0bff7",
+        "color11": "#ffe1a3",
+        "color12": "#84b3f0",
+        "color13": "#b1b9eb",
+        "color14": "#8ad1ff",
+        "color15": "#eafeff"
+    }
+}

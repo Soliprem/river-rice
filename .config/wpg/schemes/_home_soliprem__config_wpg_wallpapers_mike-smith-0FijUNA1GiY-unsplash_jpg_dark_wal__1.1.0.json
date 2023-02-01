@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/mike-smith-0FijUNA1GiY-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f100d",
+        "foreground": "#fffdfb",
+        "cursor": "#fffdfb"
+    },
+    "colors": {
+        "color0": "#0f100d",
+        "color1": "#D0D1D2",
+        "color2": "#B9C3C9",
+        "color3": "#9BAAB0",
+        "color4": "#B1BDC5",
+        "color5": "#C6BBBC",
+        "color6": "#718B95",
+        "color7": "#ebe6e4",
+        "color8": "#282b23",
+        "color9": "#e4feff",
+        "color10": "#d7ffff",
+        "color11": "#b4e6fa",
+        "color12": "#cdfaff",
+        "color13": "#ffdadf",
+        "color14": "#81bcd2",
+        "color15": "#fffdfb"
+    }
+}

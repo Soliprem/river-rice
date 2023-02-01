@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/the-gleaners.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100c11",
+        "foreground": "#fffff5",
+        "cursor": "#fffff5"
+    },
+    "colors": {
+        "color0": "#100c11",
+        "color1": "#9C8E68",
+        "color2": "#788573",
+        "color3": "#C2A97C",
+        "color4": "#C6B395",
+        "color5": "#C8B9A9",
+        "color6": "#B6AD99",
+        "color7": "#e2dad1",
+        "color8": "#2b202e",
+        "color9": "#dbc076",
+        "color10": "#94bc85",
+        "color11": "#ffe18c",
+        "color12": "#ffedab",
+        "color13": "#fff1c3",
+        "color14": "#ffe9b1",
+        "color15": "#fffff5"
+    }
+}

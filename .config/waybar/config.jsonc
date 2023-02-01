@@ -1,0 +1,202 @@
+{
+  "gtk-layer-shell": false,
+  "layer": "top",
+  "modules-left": [
+    "custom/launcher",
+    "tray",
+    "cpu",
+    "memory",
+    "custom/mpc"
+  ],
+  "modules-center": [
+    "river/tags"
+  ],
+  "modules-right": [
+    "pulseaudio",
+    "backlight",
+    "network",
+    "clock",
+    "battery",
+    "custom/power"
+  ],
+  "pulseaudio": {
+    "tooltip": false,
+    "scroll-step": 5,
+    "format": " {icon} {volume}%",
+    "format-muted": " 婢 {volume}%",
+    "format-icons": {
+      "default": [
+        "奄",
+        "奔",
+        "墳"
+      ]
+    },
+    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+    "on-scroll-up": "pamixer -i 5 && notify-volume",
+    "on-scroll-down": "pamixer -d 5 && notify-volume",
+  },
+  "river/tags": {
+    "num-tags": 9,
+  },
+  "wlr/workspaces": {
+    "sort-by-name": true,
+    "on-click": "activate",
+    "all-outputs": true,
+  },
+  "river/window": {
+    "format": "{}"
+  },
+  "mpd": {
+    "format": "{stateIcon} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ",
+    "format-disconnected": "Disconnected ",
+    "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
+    "unknown-tag": "N/A",
+    "interval": 2,
+    "consume-icons": {
+      "on": " "
+    },
+    "random-icons": {
+      "off": "<span color=\"#f53c3c\"></span> ",
+      "on": " "
+    },
+    "repeat-icons": {
+      "on": " "
+    },
+    "single-icons": {
+      "on": "1 "
+    },
+    "state-icons": {
+      "paused": "",
+      "playing": ""
+    },
+    "tooltip-format": "MPD (connected)",
+    "tooltip-format-disconnected": "MPD (disconnected)"
+  },
+  "network": {
+    "tooltip": false,
+    "format": "{icon}",
+    "format-alt": "{ipaddr} {icon}",
+    "format-alt-click": "click-right",
+    "format-icons": {
+      "wifi": [
+        " "
+      ],
+      "ethernet": [
+        " "
+      ],
+      "disconnected": [
+        "睊"
+      ],
+    },
+    "on-click": "foot -e nmtui",
+  },
+  "backlight": {
+    /*	"tooltip": false,
+		"format": " {}%",
+		"interval":1,
+        "on-scroll-up": "brightnessctl s +5%",
+		"on-scroll-down": "brightnessctl s 5%-" */
+    "interval": 2,
+    "align": 0,
+    "rotate": 0,
+    "format": "{icon} {percent}%",
+    "format-icons": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "on-click": "toggle-wlsunset",
+    "on-scroll-up": "brightnessctl s +5% && notify-brightness",
+    "on-scroll-down": "brightnessctl s 5%- && notify-brighness",
+    "smooth-scrolling-threshold": 1,
+  },
+  "battery": {
+    "states": {
+      "good": 95,
+      "warning": 30,
+      "critical": 20
+    },
+    "format": "{icon}  {capacity}%",
+    "format-charging": " {capacity}%",
+    "format-plugged": " {capacity}%",
+    "format-alt": "{time} {icon}",
+    "format-icons": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tray": {
+    "icon-size": 18,
+    "spacing": 10
+  },
+  "clock": {
+    "format": "{: %I:%M %p }",
+    "format-alt": "{: %I:%M %p   %d/%m/%Y}"
+  },
+  "cpu": {
+    "interval": 15,
+    "on-click": "foot btop",
+    "format": " {}%",
+    "max-length": 10
+  },
+  "memory": {
+    "interval": 30,
+    "on-click": "foot btop",
+    "format": " {}%",
+    "max-length": 10
+  },
+  "custom/media": {
+    "format": "{icon} {}",
+    "return-type": "json",
+    "max-length": 20,
+    "format-icons": {
+      "spotify": " ",
+      "default": " "
+    },
+    "escape": true,
+    "exec": "~/.config/waybar/mediaplayer.py",
+    /* "format-alt": "{}", */
+    /* "format-alt-click": "click-right", */
+    /* "exec-alt": "~/.config/waybar/mpc", */
+    "on-click": "mpc toggle",
+    "on-click-right": "playerctl play-pause",
+    "on-click-middle": "notify-status",
+  },
+  "custom/launcher": {
+    "format": " ",
+    "on-click": "rofi -show run",
+    "on-click-right": "killall rofi"
+  },
+  "custom/power": {
+    "format": "襤",
+    /* "on-click": "bash ~/.config/rofi/leave/leave.sh", */
+    /* "on-click":"rofi-powermenu" */
+    "on-click": "wlogout -p layer-shell"
+  },
+  "custom/updates": {
+    "format": "{} Update(s)",
+    "exec": "checkupdates | wc -l",
+    "exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",
+    "interval": 15,
+    "on-click": "foot -e yay -Syu && notify-send 'The system has been updated' "
+  },
+  "custom/mpc": {
+    "interval": 1,
+    "format": "{}",
+    "max-length": 20,
+    "exec": "~/.config/waybar/mpc",
+    "on-click-right": "foot ncmpcpp",
+    "on-click": "mpc toggle",
+    "on-click-middle": "notify-status",
+    "on-scroll-up": "mpc next",
+    "on-scroll-down": "mpc prev",
+  }
+  /*"custom/wallpaper":{
+        "format":" ",
+        "on-click": "bash ~/.config/system_scripts/pkill_bc"
+    }*/
+}

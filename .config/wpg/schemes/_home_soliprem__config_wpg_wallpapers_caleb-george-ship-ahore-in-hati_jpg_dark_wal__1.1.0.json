@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/caleb-george-ship-ahore-in-hati.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c1c23",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#0c1c23",
+        "color1": "#D5D6D6",
+        "color2": "#ACC9CC",
+        "color3": "#A6A8A3",
+        "color4": "#2A7588",
+        "color5": "#B4BDBE",
+        "color6": "#3E9DA7",
+        "color7": "#e7e6e6",
+        "color8": "#183948",
+        "color9": "#e5ffff",
+        "color10": "#c7ffff",
+        "color11": "#dcefbe",
+        "color12": "#2a9fbc",
+        "color13": "#d2ffff",
+        "color14": "#41d8e8",
+        "color15": "#fffefe"
+    }
+}

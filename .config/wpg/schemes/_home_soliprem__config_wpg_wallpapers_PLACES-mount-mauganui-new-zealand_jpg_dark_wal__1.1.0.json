@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-mount-mauganui-new-zealand.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#011A2F",
+        "foreground": "#f0ffff",
+        "cursor": "#f0ffff"
+    },
+    "colors": {
+        "color0": "#011A2F",
+        "color1": "#6E98B4",
+        "color2": "#528AAF",
+        "color3": "#8DB3CC",
+        "color4": "#3883B1",
+        "color5": "#87769F",
+        "color6": "#6EA0C7",
+        "color7": "#c8d5e0",
+        "color8": "#013561",
+        "color9": "#7cc9fc",
+        "color10": "#59b6f4",
+        "color11": "#a0edff",
+        "color12": "#39adf5",
+        "color13": "#ac87e0",
+        "color14": "#7ad2ff",
+        "color15": "#f0ffff"
+    }
+}

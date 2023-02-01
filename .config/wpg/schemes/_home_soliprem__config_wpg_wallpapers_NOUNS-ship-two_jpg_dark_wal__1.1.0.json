@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-ship-two.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#11100d",
+        "foreground": "#fffbf5",
+        "cursor": "#fffbf5"
+    },
+    "colors": {
+        "color0": "#11100d",
+        "color1": "#996B46",
+        "color2": "#A19C98",
+        "color3": "#B98E6A",
+        "color4": "#1D4956",
+        "color5": "#D2B19B",
+        "color6": "#6E808C",
+        "color7": "#e3d8d3",
+        "color8": "#2d2a22",
+        "color9": "#d5894c",
+        "color10": "#e5c8b1",
+        "color11": "#ffb676",
+        "color12": "#1e6277",
+        "color13": "#ffe1b1",
+        "color14": "#7ea9c6",
+        "color15": "#fffbf5"
+    }
+}

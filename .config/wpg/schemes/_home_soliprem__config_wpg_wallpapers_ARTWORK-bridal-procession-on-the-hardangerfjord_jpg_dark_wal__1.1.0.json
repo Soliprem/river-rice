@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-bridal-procession-on-the-hardangerfjord.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0c06",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0f0c06",
+        "color1": "#90765D",
+        "color2": "#4E788E",
+        "color3": "#628A9B",
+        "color4": "#3E738C",
+        "color5": "#93A6A8",
+        "color6": "#7396A2",
+        "color7": "#c7cccb",
+        "color8": "#332813",
+        "color9": "#ca9969",
+        "color10": "#57a0c6",
+        "color11": "#6ebad9",
+        "color12": "#439ac3",
+        "color13": "#aae8ee",
+        "color14": "#83cbe4",
+        "color15": "#fbffff"
+    }
+}

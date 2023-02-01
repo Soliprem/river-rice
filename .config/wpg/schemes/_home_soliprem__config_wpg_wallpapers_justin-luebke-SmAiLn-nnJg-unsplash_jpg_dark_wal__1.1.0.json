@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/justin-luebke-SmAiLn-nnJg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101421",
+        "foreground": "#fdfeff",
+        "cursor": "#fdfeff"
+    },
+    "colors": {
+        "color0": "#101421",
+        "color1": "#D9DBE3",
+        "color2": "#BEC2CD",
+        "color3": "#D1D2D6",
+        "color4": "#B0B5C7",
+        "color5": "#979CAF",
+        "color6": "#7A85A4",
+        "color7": "#e6e7e9",
+        "color8": "#1f2843",
+        "color9": "#dfecff",
+        "color10": "#dbeeff",
+        "color11": "#e2edff",
+        "color12": "#ccddff",
+        "color13": "#afbef8",
+        "color14": "#8ca4e7",
+        "color15": "#fdfeff"
+    }
+}

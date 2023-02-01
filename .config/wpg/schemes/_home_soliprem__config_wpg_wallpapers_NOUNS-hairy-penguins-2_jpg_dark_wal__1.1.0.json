@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-hairy-penguins-2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0606",
+        "foreground": "#ffffa0",
+        "cursor": "#ffffa0"
+    },
+    "colors": {
+        "color0": "#0c0606",
+        "color1": "#D56C10",
+        "color2": "#945E3E",
+        "color3": "#EE9F04",
+        "color4": "#CD7507",
+        "color5": "#A1560F",
+        "color6": "#E99203",
+        "color7": "#f3d979",
+        "color8": "#2e1515",
+        "color9": "#ff8b05",
+        "color10": "#ce7642",
+        "color11": "#ffd001",
+        "color12": "#ff9901",
+        "color13": "#dc6f07",
+        "color14": "#ffbe01",
+        "color15": "#ffffa0"
+    }
+}

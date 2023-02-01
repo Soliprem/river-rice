@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/isdbGfi.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020201",
+        "foreground": "#ffffe4",
+        "cursor": "#ffffe4"
+    },
+    "colors": {
+        "color0": "#020201",
+        "color1": "#D67110",
+        "color2": "#93744F",
+        "color3": "#E3A561",
+        "color4": "#966326",
+        "color5": "#D6AF8C",
+        "color6": "#CC9B5F",
+        "color7": "#f5e4c7",
+        "color8": "#333401",
+        "color9": "#ff9205",
+        "color10": "#cd9858",
+        "color11": "#ffd769",
+        "color12": "#cf8125",
+        "color13": "#ffe29f",
+        "color14": "#ffcb68",
+        "color15": "#ffffe4"
+    }
+}

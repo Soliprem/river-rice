@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/England,_Lincoln_Cathedral,_Choir_West_c1890-1900_Photochrom.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120a07",
+        "foreground": "#fffdf5",
+        "cursor": "#fffdf5"
+    },
+    "colors": {
+        "color0": "#120a07",
+        "color1": "#87463A",
+        "color2": "#67594A",
+        "color3": "#948977",
+        "color4": "#6A5E51",
+        "color5": "#867867",
+        "color6": "#736757",
+        "color7": "#c5c1bb",
+        "color8": "#361d14",
+        "color9": "#bc523e",
+        "color10": "#917454",
+        "color11": "#d1b689",
+        "color12": "#957a5d",
+        "color13": "#bd9d76",
+        "color14": "#a28764",
+        "color15": "#fffdf5"
+    }
+}

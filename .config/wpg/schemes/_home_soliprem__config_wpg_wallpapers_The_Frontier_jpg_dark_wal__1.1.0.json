@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/The_Frontier.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151b29",
+        "foreground": "#f1feff",
+        "cursor": "#f1feff"
+    },
+    "colors": {
+        "color0": "#151b29",
+        "color1": "#B2C3DD",
+        "color2": "#97A0CD",
+        "color3": "#ADB2D5",
+        "color4": "#9791B4",
+        "color5": "#CAAEC2",
+        "color6": "#7489AF",
+        "color7": "#d1dce8",
+        "color8": "#25304a",
+        "color9": "#caf3ff",
+        "color10": "#adc0ff",
+        "color11": "#c7d4ff",
+        "color12": "#b6a7ff",
+        "color13": "#ffc9ff",
+        "color14": "#83acf6",
+        "color15": "#f1feff"
+    }
+}

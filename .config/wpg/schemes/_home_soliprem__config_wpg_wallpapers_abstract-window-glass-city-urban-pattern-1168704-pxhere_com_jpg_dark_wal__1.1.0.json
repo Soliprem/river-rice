@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/abstract-window-glass-city-urban-pattern-1168704-pxhere.com.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121014",
+        "foreground": "#fffffc",
+        "cursor": "#fffffc"
+    },
+    "colors": {
+        "color0": "#121014",
+        "color1": "#615F9B",
+        "color2": "#A39CA4",
+        "color3": "#D0B23E",
+        "color4": "#3D49A7",
+        "color5": "#9D68A5",
+        "color6": "#4CADC3",
+        "color7": "#d8d6d3",
+        "color8": "#2a262f",
+        "color9": "#6e6bd9",
+        "color10": "#e3b6e9",
+        "color11": "#fff13e",
+        "color12": "#4053e7",
+        "color13": "#d875e7",
+        "color14": "#51ecff",
+        "color15": "#fffffc"
+    }
+}

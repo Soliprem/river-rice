@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/1339547-popular-4k-psychedelic-wallpapers-3840x2160-hd-1080p.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020102",
+        "foreground": "#d8ffff",
+        "cursor": "#d8ffff"
+    },
+    "colors": {
+        "color0": "#020102",
+        "color1": "#A83944",
+        "color2": "#58916D",
+        "color3": "#AE8F73",
+        "color4": "#483D96",
+        "color5": "#AE5B94",
+        "color6": "#9A5C64",
+        "color7": "#a3c8c6",
+        "color8": "#340133",
+        "color9": "#e93b4c",
+        "color10": "#63cb89",
+        "color11": "#f4b882",
+        "color12": "#5341d0",
+        "color13": "#f365c6",
+        "color14": "#d86776",
+        "color15": "#d8ffff"
+    }
+}

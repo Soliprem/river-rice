@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/theGulfSteam.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0f0e",
+        "foreground": "#fffff7",
+        "cursor": "#fffff7"
+    },
+    "colors": {
+        "color0": "#0d0f0e",
+        "color1": "#718891",
+        "color2": "#617A85",
+        "color3": "#BEBEB0",
+        "color4": "#3B5F84",
+        "color5": "#A4A9A2",
+        "color6": "#7DAAC4",
+        "color7": "#dddbd0",
+        "color8": "#242927",
+        "color9": "#82b8cd",
+        "color10": "#6fa4bb",
+        "color11": "#ffffcd",
+        "color12": "#407bb8",
+        "color13": "#ccf1bd",
+        "color14": "#8de2ff",
+        "color15": "#fffff7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/gqNELY6.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b252b",
+        "foreground": "#fafeff",
+        "cursor": "#fafeff"
+    },
+    "colors": {
+        "color0": "#1b252b",
+        "color1": "#C4D1DC",
+        "color2": "#B7C6D2",
+        "color3": "#A9B9C6",
+        "color4": "#96A9B7",
+        "color5": "#A1B2BE",
+        "color6": "#9DB0C2",
+        "color7": "#e2e6eb",
+        "color8": "#2e3f49",
+        "color9": "#d6ffff",
+        "color10": "#d4ffff",
+        "color11": "#c3f2ff",
+        "color12": "#addeff",
+        "color13": "#baebff",
+        "color14": "#b5e5ff",
+        "color15": "#fafeff"
+    }
+}

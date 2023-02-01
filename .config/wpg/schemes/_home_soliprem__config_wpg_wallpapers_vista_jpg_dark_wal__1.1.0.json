@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/vista.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#164523",
+        "foreground": "#ccffff",
+        "cursor": "#ccffff"
+    },
+    "colors": {
+        "color0": "#164523",
+        "color1": "#A5D75C",
+        "color2": "#0B8B8D",
+        "color3": "#BCCF47",
+        "color4": "#117888",
+        "color5": "#217C8F",
+        "color6": "#2691A7",
+        "color7": "#9ad2d7",
+        "color8": "#216b36",
+        "color9": "#daff63",
+        "color10": "#04bec1",
+        "color11": "#ffff4a",
+        "color12": "#0ca3ba",
+        "color13": "#1fa8c5",
+        "color14": "#23c5e6",
+        "color15": "#ccffff"
+    }
+}

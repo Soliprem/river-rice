@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-indy-stance.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0804",
+        "foreground": "#ffffe3",
+        "cursor": "#ffffe3"
+    },
+    "colors": {
+        "color0": "#0c0804",
+        "color1": "#885E3B",
+        "color2": "#7C613E",
+        "color3": "#B18F61",
+        "color4": "#7D6141",
+        "color5": "#A47B51",
+        "color6": "#90714A",
+        "color7": "#dccbb1",
+        "color8": "#33210e",
+        "color9": "#bd7940",
+        "color10": "#ad7f44",
+        "color11": "#f7bc6c",
+        "color12": "#ae7e48",
+        "color13": "#e5a059",
+        "color14": "#c99452",
+        "color15": "#ffffe3"
+    }
+}

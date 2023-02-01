@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pump.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060509",
+        "foreground": "#eaf5fc",
+        "cursor": "#eaf5fc"
+    },
+    "colors": {
+        "color0": "#060509",
+        "color1": "#D9172F",
+        "color2": "#443D49",
+        "color3": "#9B132A",
+        "color4": "#565862",
+        "color5": "#B03D54",
+        "color6": "#691527",
+        "color7": "#b1b9be",
+        "color8": "#1a152a",
+        "color9": "#ff0e31",
+        "color10": "#594667",
+        "color11": "#d40d2f",
+        "color12": "#636a8b",
+        "color13": "#f43f63",
+        "color14": "#90132d",
+        "color15": "#eaf5fc"
+    }
+}

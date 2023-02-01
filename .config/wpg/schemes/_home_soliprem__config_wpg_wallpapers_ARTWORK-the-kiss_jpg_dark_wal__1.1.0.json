@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-the-kiss.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0E0C",
+        "foreground": "#e2f2ff",
+        "cursor": "#e2f2ff"
+    },
+    "colors": {
+        "color0": "#0F0E0C",
+        "color1": "#896538",
+        "color2": "#726A52",
+        "color3": "#C29B77",
+        "color4": "#5E5D54",
+        "color5": "#978C69",
+        "color6": "#877855",
+        "color7": "#aab6c0",
+        "color8": "#2b2822",
+        "color9": "#be843c",
+        "color10": "#a0905d",
+        "color11": "#ffc886",
+        "color12": "#858261",
+        "color13": "#d4be77",
+        "color14": "#bda160",
+        "color15": "#e2f2ff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/astronomy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0403",
+        "foreground": "#ffcfc9",
+        "cursor": "#ffcfc9"
+    },
+    "colors": {
+        "color0": "#0e0403",
+        "color1": "#D72C17",
+        "color2": "#704E42",
+        "color3": "#ED4B35",
+        "color4": "#6E3941",
+        "color5": "#903634",
+        "color6": "#A52216",
+        "color7": "#cd9b97",
+        "color8": "#390e09",
+        "color9": "#ff2d0e",
+        "color10": "#9d5f4a",
+        "color11": "#ff5331",
+        "color12": "#993f4c",
+        "color13": "#c73936",
+        "color14": "#e22110",
+        "color15": "#ffcfc9"
+    }
+}

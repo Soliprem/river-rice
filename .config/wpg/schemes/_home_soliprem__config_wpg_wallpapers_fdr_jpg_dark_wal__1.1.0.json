@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/fdr.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020202",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#4F4F4F",
+        "color2": "#717171",
+        "color3": "#B0B0B0",
+        "color4": "#363636",
+        "color5": "#909090",
+        "color6": "#D0D0D0",
+        "color7": "#eaeaea",
+        "color8": "#1b1b1b",
+        "color9": "#705c5c",
+        "color10": "#a18484",
+        "color11": "#fbcece",
+        "color12": "#4d3f3f",
+        "color13": "#cda8a8",
+        "color14": "#ffe5e5",
+        "color15": "#ffffff"
+    }
+}

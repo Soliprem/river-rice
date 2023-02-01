@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/siyan-ren-jN_VbffJHlI-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c0d",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#0c0c0d",
+        "color1": "#DEDFE1",
+        "color2": "#CDCED0",
+        "color3": "#BEBFC1",
+        "color4": "#8E8F91",
+        "color5": "#9E9FA1",
+        "color6": "#AEAFB1",
+        "color7": "#f1f2f3",
+        "color8": "#232327",
+        "color9": "#e3f5ff",
+        "color10": "#e3f5ff",
+        "color11": "#def0ff",
+        "color12": "#a6b3cf",
+        "color13": "#b8c7e5",
+        "color14": "#cbdbfc",
+        "color15": "#fdffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/tenet.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100406",
+        "foreground": "#dee7ff",
+        "cursor": "#dee7ff"
+    },
+    "colors": {
+        "color0": "#100406",
+        "color1": "#492E68",
+        "color2": "#504777",
+        "color3": "#51518E",
+        "color4": "#444188",
+        "color5": "#5A639B",
+        "color6": "#5A6BA9",
+        "color7": "#a8afcd",
+        "color8": "#390c13",
+        "color9": "#5e3290",
+        "color10": "#604fa7",
+        "color11": "#5a5ac7",
+        "color12": "#4c47bd",
+        "color13": "#6575d9",
+        "color14": "#6481ec",
+        "color15": "#dee7ff"
+    }
+}

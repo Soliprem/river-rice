@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-the-lady-of-shallot-waterhouse.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090a07",
+        "foreground": "#f3eaf7",
+        "cursor": "#f3eaf7"
+    },
+    "colors": {
+        "color0": "#090a07",
+        "color1": "#993C2F",
+        "color2": "#6A594C",
+        "color3": "#B7905B",
+        "color4": "#433E44",
+        "color5": "#916F52",
+        "color6": "#985D2F",
+        "color7": "#b7b0ba",
+        "color8": "#23281b",
+        "color9": "#d34430",
+        "color10": "#957257",
+        "color11": "#ffbd64",
+        "color12": "#5c4860",
+        "color13": "#cb8f5b",
+        "color14": "#d27730",
+        "color15": "#f3eaf7"
+    }
+}

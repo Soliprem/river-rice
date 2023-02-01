@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/liberty-leading-the-people.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F100B",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#0F100B",
+        "color1": "#8F4831",
+        "color2": "#88775C",
+        "color3": "#C8B772",
+        "color4": "#978D71",
+        "color5": "#A8A490",
+        "color6": "#79827E",
+        "color7": "#dcd8c8",
+        "color8": "#2b2e1f",
+        "color9": "#c65733",
+        "color10": "#bf9e68",
+        "color11": "#fffa7f",
+        "color12": "#d5bf81",
+        "color13": "#eee2a6",
+        "color14": "#8db9a5",
+        "color15": "#fffff2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-washington-crossing-the-deleware.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0909",
+        "foreground": "#f7faff",
+        "cursor": "#f7faff"
+    },
+    "colors": {
+        "color0": "#0d0909",
+        "color1": "#8C6747",
+        "color2": "#6B6C75",
+        "color3": "#878681",
+        "color4": "#5C6A85",
+        "color5": "#6D7388",
+        "color6": "#9B9CA4",
+        "color7": "#d1d3dd",
+        "color8": "#2b1d1d",
+        "color9": "#c3844e",
+        "color10": "#7c80a6",
+        "color11": "#c0b996",
+        "color12": "#6985bb",
+        "color13": "#7d8cc0",
+        "color14": "#b4bae9",
+        "color15": "#f7faff"
+    }
+}

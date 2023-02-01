@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Neon_Paint.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0915",
+        "foreground": "#aeffff",
+        "cursor": "#aeffff"
+    },
+    "colors": {
+        "color0": "#0A0915",
+        "color1": "#D11A48",
+        "color2": "#116B92",
+        "color3": "#EB165E",
+        "color4": "#392DBC",
+        "color5": "#D029AC",
+        "color6": "#1391A7",
+        "color7": "#83cee2",
+        "color8": "#1a1738",
+        "color9": "#ff1255",
+        "color10": "#0b8fc8",
+        "color11": "#ff0b74",
+        "color12": "#3d2bff",
+        "color13": "#ff25e8",
+        "color14": "#0cc5e5",
+        "color15": "#aeffff"
+    }
+}

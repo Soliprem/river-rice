@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-giant-golf-ball.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#001851",
+        "foreground": "#eafeff",
+        "cursor": "#eafeff"
+    },
+    "colors": {
+        "color0": "#001851",
+        "color1": "#3662C1",
+        "color2": "#2070A6",
+        "color3": "#1F86B7",
+        "color4": "#014FD0",
+        "color5": "#536F9B",
+        "color6": "#46A6D7",
+        "color7": "#cbdcee",
+        "color8": "#012782",
+        "color9": "#3679ff",
+        "color10": "#1c94e4",
+        "color11": "#1ab3fb",
+        "color12": "#0166ff",
+        "color13": "#5c8cd8",
+        "color14": "#48ddff",
+        "color15": "#eafeff"
+    }
+}

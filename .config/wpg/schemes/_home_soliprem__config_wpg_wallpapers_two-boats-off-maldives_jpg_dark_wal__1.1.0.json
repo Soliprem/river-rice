@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/two-boats-off-maldives.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#011417",
+        "foreground": "#fdfffe",
+        "cursor": "#fdfffe"
+    },
+    "colors": {
+        "color0": "#011417",
+        "color1": "#5EA39F",
+        "color2": "#248777",
+        "color3": "#A38F52",
+        "color4": "#166999",
+        "color5": "#A3BFBC",
+        "color6": "#32ADBA",
+        "color7": "#e3e6e4",
+        "color8": "#013f49",
+        "color9": "#69e4dd",
+        "color10": "#23baa2",
+        "color11": "#e3c15a",
+        "color12": "#118bd2",
+        "color13": "#bcffff",
+        "color14": "#31edff",
+        "color15": "#fdfffe"
+    }
+}

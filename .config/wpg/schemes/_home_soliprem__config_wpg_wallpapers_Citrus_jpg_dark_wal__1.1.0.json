@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Citrus.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050202",
+        "foreground": "#fffff7",
+        "cursor": "#fffff7"
+    },
+    "colors": {
+        "color0": "#050202",
+        "color1": "#F59218",
+        "color2": "#E1AB5B",
+        "color3": "#FBA914",
+        "color4": "#7F7A80",
+        "color5": "#CFCEAC",
+        "color6": "#EA9226",
+        "color7": "#ece7de",
+        "color8": "#2d0c0c",
+        "color9": "#ffbf0d",
+        "color10": "#ffe261",
+        "color11": "#ffe008",
+        "color12": "#af8eb6",
+        "color13": "#ffffc7",
+        "color14": "#ffbf1f",
+        "color15": "#fffff7"
+    }
+}

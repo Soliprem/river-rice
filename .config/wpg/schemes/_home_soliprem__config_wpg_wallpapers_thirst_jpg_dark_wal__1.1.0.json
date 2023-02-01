@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/thirst.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060110",
+        "foreground": "#fff1ff",
+        "cursor": "#fff1ff"
+    },
+    "colors": {
+        "color0": "#060110",
+        "color1": "#943236",
+        "color2": "#69496A",
+        "color3": "#913748",
+        "color4": "#4153A6",
+        "color5": "#C55253",
+        "color6": "#622A4C",
+        "color7": "#c9b9cd",
+        "color8": "#160142",
+        "color9": "#cd343a",
+        "color10": "#935395",
+        "color11": "#c93a55",
+        "color12": "#4562e6",
+        "color13": "#ff585a",
+        "color14": "#882d64",
+        "color15": "#fff1ff"
+    }
+}

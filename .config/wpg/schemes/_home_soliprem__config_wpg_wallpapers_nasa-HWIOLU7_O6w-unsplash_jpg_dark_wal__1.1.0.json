@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nasa-HWIOLU7_O6w-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#22394c",
+        "foreground": "#f5ffff",
+        "cursor": "#f5ffff"
+    },
+    "colors": {
+        "color0": "#22394c",
+        "color1": "#71A5C2",
+        "color2": "#6D829D",
+        "color3": "#7589A6",
+        "color4": "#589BAF",
+        "color5": "#8693AC",
+        "color6": "#2E90AA",
+        "color7": "#c2cbd1",
+        "color8": "#31526e",
+        "color9": "#7edcff",
+        "color10": "#7ca6dd",
+        "color11": "#85aeea",
+        "color12": "#61d2f4",
+        "color13": "#9ab8f3",
+        "color14": "#2dc3eb",
+        "color15": "#f5ffff"
+    }
+}

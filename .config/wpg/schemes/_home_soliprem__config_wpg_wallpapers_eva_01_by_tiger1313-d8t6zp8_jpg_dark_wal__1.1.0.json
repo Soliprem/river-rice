@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/eva_01_by_tiger1313-d8t6zp8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100f0f",
+        "foreground": "#ffdfdc",
+        "cursor": "#ffdfdc"
+    },
+    "colors": {
+        "color0": "#100f0f",
+        "color1": "#CC2E21",
+        "color2": "#604732",
+        "color3": "#CD4C27",
+        "color4": "#932E24",
+        "color5": "#AE3629",
+        "color6": "#A6462E",
+        "color7": "#c0a7a5",
+        "color8": "#292727",
+        "color9": "#ff2e1b",
+        "color10": "#865b37",
+        "color11": "#ff5922",
+        "color12": "#cb3122",
+        "color13": "#f03a27",
+        "color14": "#e5522d",
+        "color15": "#ffdfdc"
+    }
+}

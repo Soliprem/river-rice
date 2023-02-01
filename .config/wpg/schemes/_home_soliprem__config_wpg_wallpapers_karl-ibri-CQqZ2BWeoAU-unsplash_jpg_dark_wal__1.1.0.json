@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/karl-ibri-CQqZ2BWeoAU-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#07080A",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#07080A",
+        "color1": "#8E8F91",
+        "color2": "#7E7F81",
+        "color3": "#BEBFC1",
+        "color4": "#6D6E70",
+        "color5": "#9E9FA1",
+        "color6": "#AEAFB1",
+        "color7": "#dddedf",
+        "color8": "#1b1f28",
+        "color9": "#a6b3cf",
+        "color10": "#939fb8",
+        "color11": "#def0ff",
+        "color12": "#7f8a9f",
+        "color13": "#b8c7e5",
+        "color14": "#cbdbfc",
+        "color15": "#fdffff"
+    }
+}

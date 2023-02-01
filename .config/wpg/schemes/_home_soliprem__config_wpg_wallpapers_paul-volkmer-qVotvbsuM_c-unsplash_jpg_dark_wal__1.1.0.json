@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/paul-volkmer-qVotvbsuM_c-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#07090E",
+        "foreground": "#f6fcff",
+        "cursor": "#f6fcff"
+    },
+    "colors": {
+        "color0": "#07090E",
+        "color1": "#374762",
+        "color2": "#555767",
+        "color3": "#626D8E",
+        "color4": "#30508B",
+        "color5": "#989AA5",
+        "color6": "#7A8499",
+        "color7": "#ced3dd",
+        "color8": "#161e30",
+        "color9": "#3d5989",
+        "color10": "#626792",
+        "color11": "#6f85c8",
+        "color12": "#3264c0",
+        "color13": "#b1b9eb",
+        "color14": "#8ca5d8",
+        "color15": "#f6fcff"
+    }
+}

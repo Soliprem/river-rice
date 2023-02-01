@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bring-it-home.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060712",
+        "foreground": "#d0feff",
+        "cursor": "#d0feff"
+    },
+    "colors": {
+        "color0": "#060712",
+        "color1": "#523752",
+        "color2": "#0D4A71",
+        "color3": "#2B4C6F",
+        "color4": "#206890",
+        "color5": "#546E90",
+        "color6": "#3496B8",
+        "color7": "#9dc0d1",
+        "color8": "#111438",
+        "color9": "#733e73",
+        "color10": "#08629b",
+        "color11": "#2d629a",
+        "color12": "#1e8ac6",
+        "color13": "#5e8dc9",
+        "color14": "#34cafe",
+        "color15": "#d0feff"
+    }
+}

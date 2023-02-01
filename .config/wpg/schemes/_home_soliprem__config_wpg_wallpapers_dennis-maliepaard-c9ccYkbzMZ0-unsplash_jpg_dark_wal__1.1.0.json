@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/dennis-maliepaard-c9ccYkbzMZ0-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0E0E",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#0E0E0E",
+        "color1": "#F2F2F2",
+        "color2": "#f5f5f5",
+        "color3": "#C8C8C8",
+        "color4": "#F6F6F6",
+        "color5": "#D8D8D8",
+        "color6": "#E7E7E7",
+        "color7": "#FBFBFB",
+        "color8": "#272727",
+        "color9": "#ffe5e5",
+        "color10": "#ffe5e5",
+        "color11": "#ffe5e5",
+        "color12": "#ffe5e5",
+        "color13": "#ffe5e5",
+        "color14": "#ffe5e5",
+        "color15": "#ffffff"
+    }
+}

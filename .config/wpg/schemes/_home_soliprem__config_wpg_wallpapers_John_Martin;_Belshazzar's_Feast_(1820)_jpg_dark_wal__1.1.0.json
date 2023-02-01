@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/John_Martin;_Belshazzar's_Feast_(1820).jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191112",
+        "foreground": "#fffcde",
+        "cursor": "#fffcde"
+    },
+    "colors": {
+        "color0": "#191112",
+        "color1": "#833824",
+        "color2": "#655847",
+        "color3": "#936E4C",
+        "color4": "#394242",
+        "color5": "#8E6133",
+        "color6": "#87582D",
+        "color7": "#d1c0a9",
+        "color8": "#372527",
+        "color9": "#b54223",
+        "color10": "#8e7351",
+        "color11": "#cd8e54",
+        "color12": "#425d5d",
+        "color13": "#c57e35",
+        "color14": "#bb712e",
+        "color15": "#fffcde"
+    }
+}

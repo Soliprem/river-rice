@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/andy-holmes-rCbdp8VCYhQ-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121219",
+        "foreground": "#fff2ff",
+        "cursor": "#fff2ff"
+    },
+    "colors": {
+        "color0": "#121219",
+        "color1": "#8B686E",
+        "color2": "#5C619B",
+        "color3": "#4562AF",
+        "color4": "#304E91",
+        "color5": "#9375A3",
+        "color6": "#7288C8",
+        "color7": "#d2c4d9",
+        "color8": "#262636",
+        "color9": "#c47784",
+        "color10": "#6770d9",
+        "color11": "#4978f3",
+        "color12": "#3160c9",
+        "color13": "#c485e6",
+        "color14": "#7fa6ff",
+        "color15": "#fff2ff"
+    }
+}

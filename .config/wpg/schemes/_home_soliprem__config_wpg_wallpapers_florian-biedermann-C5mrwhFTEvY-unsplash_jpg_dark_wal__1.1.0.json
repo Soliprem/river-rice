@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/florian-biedermann-C5mrwhFTEvY-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111311",
+        "foreground": "#fcffff",
+        "cursor": "#fcffff"
+    },
+    "colors": {
+        "color0": "#111311",
+        "color1": "#D4DBE2",
+        "color2": "#B7C7D4",
+        "color3": "#C9D2DB",
+        "color4": "#A1B6C7",
+        "color5": "#95A5B1",
+        "color6": "#6F8EA3",
+        "color7": "#e5e8ea",
+        "color8": "#282d28",
+        "color9": "#ddfeff",
+        "color10": "#d2ffff",
+        "color11": "#dafeff",
+        "color12": "#b9efff",
+        "color13": "#acd9fb",
+        "color14": "#7ebce5",
+        "color15": "#fcffff"
+    }
+}

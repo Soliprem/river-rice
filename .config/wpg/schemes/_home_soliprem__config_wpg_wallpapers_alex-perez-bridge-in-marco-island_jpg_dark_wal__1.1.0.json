@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/alex-perez-bridge-in-marco-island.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#022E2B",
+        "foreground": "#fffdff",
+        "cursor": "#fffdff"
+    },
+    "colors": {
+        "color0": "#022E2B",
+        "color1": "#6D8876",
+        "color2": "#029687",
+        "color3": "#8A856E",
+        "color4": "#2E958C",
+        "color5": "#738B95",
+        "color6": "#02A492",
+        "color7": "#d1ced0",
+        "color8": "#035e58",
+        "color9": "#7dc094",
+        "color10": "#01c4b0",
+        "color11": "#c3b77e",
+        "color12": "#2fcec0",
+        "color13": "#84bbd2",
+        "color14": "#01d6bf",
+        "color15": "#fffdff"
+    }
+}

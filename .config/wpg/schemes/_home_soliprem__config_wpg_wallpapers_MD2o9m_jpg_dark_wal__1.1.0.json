@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MD2o9m.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060A0D",
+        "foreground": "#bcffff",
+        "cursor": "#bcffff"
+    },
+    "colors": {
+        "color0": "#060A0D",
+        "color1": "#AC374E",
+        "color2": "#659059",
+        "color3": "#BEB446",
+        "color4": "#30639B",
+        "color5": "#B8419E",
+        "color6": "#565F63",
+        "color7": "#8dced7",
+        "color8": "#142430",
+        "color9": "#ee385c",
+        "color10": "#7aca64",
+        "color11": "#fff84a",
+        "color12": "#3180d6",
+        "color13": "#ff44d6",
+        "color14": "#63808c",
+        "color15": "#bcffff"
+    }
+}

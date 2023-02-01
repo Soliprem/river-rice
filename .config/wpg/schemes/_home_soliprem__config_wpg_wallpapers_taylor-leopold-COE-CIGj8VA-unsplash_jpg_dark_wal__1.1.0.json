@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/taylor-leopold-COE-CIGj8VA-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1f21",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#1f1f21",
+        "color1": "#CFD0D2",
+        "color2": "#8D8E90",
+        "color3": "#BEBFC1",
+        "color4": "#7F8082",
+        "color5": "#9E9FA1",
+        "color6": "#AEAFB1",
+        "color7": "#e6e6e7",
+        "color8": "#37373a",
+        "color9": "#e3f5ff",
+        "color10": "#a4b2cd",
+        "color11": "#def0ff",
+        "color12": "#94a0b9",
+        "color13": "#b8c7e5",
+        "color14": "#cbdbfc",
+        "color15": "#fefeff"
+    }
+}

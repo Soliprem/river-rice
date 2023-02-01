@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/breezing-up.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121911",
+        "foreground": "#fffadf",
+        "cursor": "#fffadf"
+    },
+    "colors": {
+        "color0": "#121911",
+        "color1": "#8F562D",
+        "color2": "#5E6750",
+        "color3": "#938668",
+        "color4": "#6F6B55",
+        "color5": "#897A5B",
+        "color6": "#8A9274",
+        "color7": "#cabda9",
+        "color8": "#273725",
+        "color9": "#c66d2e",
+        "color10": "#7c915c",
+        "color11": "#cfb476",
+        "color12": "#9c9361",
+        "color13": "#c0a367",
+        "color14": "#bbce85",
+        "color15": "#fffadf"
+    }
+}

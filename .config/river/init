@@ -12,8 +12,8 @@
 # Use the "logo" key as the primary modifier
 mod="Mod4"
 
-riverctl input 1739:52390:DELL095D:00_06CB:CCA6_Touchpad tap enabled
-riverctl input 1739:52390:DELL095D:00_06CB:CCA6_Touchpad tap-button-map left-right-middle
+riverctl input pointer-1739-52390-DELL095D:00_06CB:CCA6_Touchpad tap enabled
+riverctl input pointer-1739-52390-DELL095D:00_06CB:CCA6_Touchpad tap-button-map left-right-middle
 
 # Mod+D to launch rofi
 riverctl map -repeat normal $mod D spawn "rofi -show run"
@@ -26,7 +26,8 @@ riverctl map -repeat normal $mod+Control+Mod1 R spawn "randrice"
 riverctl map -repeat normal $mod e spawn "schwa"
 riverctl map -repeat normal $mod+Shift e spawn "dm-special"
 riverctl map -repeat normal $mod c spawn "dm-spellcheck"
-riverctl map -repeat normal $mod n spawn "foot nvim -c VimwikiIndex"
+riverctl map -repeat normal $mod n spawn "foot nvim ~/vimwiki/index.md"
+riverctl map -repeat normal $mod+Shift N spawn "foot nvim"
 riverctl map -repeat normal Print spawn "wayshot --stdout | wl-copy"
 riverctl map -repeat normal Shift Print spawn "wayshotpick"
 riverctl map -repeat normal $mod BackSpace spawn "wlogout -p layer-shell"

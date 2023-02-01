@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hydrometry-iv.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090205",
+        "foreground": "#ffccff",
+        "cursor": "#ffccff"
+    },
+    "colors": {
+        "color0": "#090205",
+        "color1": "#B20108",
+        "color2": "#5F1958",
+        "color3": "#91042A",
+        "color4": "#65359E",
+        "color5": "#A21358",
+        "color6": "#8F010D",
+        "color7": "#ce99ce",
+        "color8": "#35071b",
+        "color9": "#e7010a",
+        "color10": "#831878",
+        "color11": "#c00134",
+        "color12": "#8237db",
+        "color13": "#de0c71",
+        "color14": "#ba0110",
+        "color15": "#ffccff"
+    }
+}

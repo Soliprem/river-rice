@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/silas-baisch-LDiZP1yLQxg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c212b",
+        "foreground": "#f3ffff",
+        "cursor": "#f3ffff"
+    },
+    "colors": {
+        "color0": "#0c212b",
+        "color1": "#4C7987",
+        "color2": "#2A8478",
+        "color3": "#2D7687",
+        "color4": "#076ECA",
+        "color5": "#61929C",
+        "color6": "#298F91",
+        "color7": "#c6d3d8",
+        "color8": "#163f52",
+        "color9": "#55a4bd",
+        "color10": "#2bb6a4",
+        "color11": "#2ea0bb",
+        "color12": "#018fff",
+        "color13": "#6dc8db",
+        "color14": "#29c5c8",
+        "color15": "#f3ffff"
+    }
+}

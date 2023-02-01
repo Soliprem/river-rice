@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/howls.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#29401a",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#29401a",
+        "color1": "#BBC2AA",
+        "color2": "#A3B09C",
+        "color3": "#EAD5AA",
+        "color4": "#CDCAB7",
+        "color5": "#C8BA9F",
+        "color6": "#769887",
+        "color7": "#e0dfd7",
+        "color8": "#3f6328",
+        "color9": "#fcffc5",
+        "color10": "#cdfab5",
+        "color11": "#ffffbd",
+        "color12": "#ffffd4",
+        "color13": "#fff9b7",
+        "color14": "#87d7af",
+        "color15": "#fffff9"
+    }
+}

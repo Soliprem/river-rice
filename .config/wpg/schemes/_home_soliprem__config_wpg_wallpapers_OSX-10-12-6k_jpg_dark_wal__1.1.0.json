@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/OSX-10-12-6k.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0D10",
+        "foreground": "#ffedea",
+        "cursor": "#ffedea"
+    },
+    "colors": {
+        "color0": "#0F0D10",
+        "color1": "#8D7A97",
+        "color2": "#677494",
+        "color3": "#A497AC",
+        "color4": "#3C5F83",
+        "color5": "#C47E83",
+        "color6": "#7684A2",
+        "color7": "#e2c3c0",
+        "color8": "#28232b",
+        "color9": "#bc8cd5",
+        "color10": "#758fd0",
+        "color11": "#daaff4",
+        "color12": "#417bb6",
+        "color13": "#ff8e98",
+        "color14": "#87a5e4",
+        "color15": "#ffedea"
+    }
+}

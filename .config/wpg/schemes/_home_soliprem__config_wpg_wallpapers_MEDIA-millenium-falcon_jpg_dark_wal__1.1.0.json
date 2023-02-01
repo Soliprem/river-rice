@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-millenium-falcon.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0909",
+        "foreground": "#e1ffff",
+        "cursor": "#e1ffff"
+    },
+    "colors": {
+        "color0": "#0b0909",
+        "color1": "#A8644C",
+        "color2": "#6F6563",
+        "color3": "#C08C73",
+        "color4": "#53484A",
+        "color5": "#936A5B",
+        "color6": "#6F534C",
+        "color7": "#a9c0c1",
+        "color8": "#261f1f",
+        "color9": "#ea7a52",
+        "color10": "#9d7a73",
+        "color11": "#ffaf81",
+        "color12": "#755359",
+        "color13": "#ce8266",
+        "color14": "#9c6456",
+        "color15": "#e1ffff"
+    }
+}

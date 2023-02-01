@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/autumn-forest-leaves-1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0801",
+        "foreground": "#ffffb1",
+        "cursor": "#ffffb1"
+    },
+    "colors": {
+        "color0": "#0d0801",
+        "color1": "#C43D0A",
+        "color2": "#975010",
+        "color3": "#D5630F",
+        "color4": "#8D340D",
+        "color5": "#AB380B",
+        "color6": "#AF4F0F",
+        "color7": "#ecc586",
+        "color8": "#3f2501",
+        "color9": "#ff4901",
+        "color10": "#cf6709",
+        "color11": "#ff7e04",
+        "color12": "#c13f06",
+        "color13": "#ea4302",
+        "color14": "#f06406",
+        "color15": "#ffffb1"
+    }
+}

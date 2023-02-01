@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-germnay.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0909",
+        "foreground": "#f6ffff",
+        "cursor": "#f6ffff"
+    },
+    "colors": {
+        "color0": "#0A0909",
+        "color1": "#DDD8D2",
+        "color2": "#5B656A",
+        "color3": "#8B8074",
+        "color4": "#617888",
+        "color5": "#A2A8A9",
+        "color6": "#718C9D",
+        "color7": "#e0eaef",
+        "color8": "#242020",
+        "color9": "#ffffdf",
+        "color10": "#698796",
+        "color11": "#c5a786",
+        "color12": "#6f9ebf",
+        "color13": "#bde9f1",
+        "color14": "#81b9dd",
+        "color15": "#f6ffff"
+    }
+}

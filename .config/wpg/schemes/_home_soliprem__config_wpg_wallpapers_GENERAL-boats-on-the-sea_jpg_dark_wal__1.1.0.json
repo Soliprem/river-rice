@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/GENERAL-boats-on-the-sea.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#242728",
+        "foreground": "#a8ffff",
+        "cursor": "#a8ffff"
+    },
+    "colors": {
+        "color0": "#242728",
+        "color1": "#09BAC3",
+        "color2": "#05C6BA",
+        "color3": "#06AEB2",
+        "color4": "#0795A7",
+        "color5": "#5EA9AC",
+        "color6": "#07CDCA",
+        "color7": "#7ee9e3",
+        "color8": "#3b4042",
+        "color9": "#01fbff",
+        "color10": "#01fff6",
+        "color11": "#01e8ee",
+        "color12": "#01c7e1",
+        "color13": "#68ebf0",
+        "color14": "#01ffff",
+        "color15": "#a8ffff"
+    }
+}

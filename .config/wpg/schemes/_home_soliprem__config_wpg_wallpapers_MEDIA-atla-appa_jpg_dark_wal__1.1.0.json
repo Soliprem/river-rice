@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-atla-appa.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#32343d",
+        "foreground": "#fff2ff",
+        "cursor": "#fff2ff"
+    },
+    "colors": {
+        "color0": "#32343d",
+        "color1": "#A9B3EE",
+        "color2": "#8EA8D5",
+        "color3": "#B1ABCF",
+        "color4": "#8A9EDC",
+        "color5": "#CCAFCD",
+        "color6": "#90A8E8",
+        "color7": "#e7d2df",
+        "color8": "#484b58",
+        "color9": "#baceff",
+        "color10": "#a1d4ff",
+        "color11": "#d5c5ff",
+        "color12": "#9cc1ff",
+        "color13": "#ffcaff",
+        "color14": "#a2cfff",
+        "color15": "#fff2ff"
+    }
+}

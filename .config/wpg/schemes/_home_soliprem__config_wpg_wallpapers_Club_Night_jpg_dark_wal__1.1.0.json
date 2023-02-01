@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Club_Night.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0d0f",
+        "foreground": "#fffffa",
+        "cursor": "#fffffa"
+    },
+    "colors": {
+        "color0": "#0e0d0f",
+        "color1": "#8B7556",
+        "color2": "#5E5E51",
+        "color3": "#CCA770",
+        "color4": "#374648",
+        "color5": "#A08D6B",
+        "color6": "#748986",
+        "color7": "#cacbc4",
+        "color8": "#272429",
+        "color9": "#c39a61",
+        "color10": "#85855e",
+        "color11": "#ffdd7d",
+        "color12": "#3f6165",
+        "color13": "#e1bc79",
+        "color14": "#86c2b9",
+        "color15": "#fffffa"
+    }
+}

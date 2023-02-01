@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-tie-fighter.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131817",
+        "foreground": "#f3ffff",
+        "cursor": "#f3ffff"
+    },
+    "colors": {
+        "color0": "#131817",
+        "color1": "#6F909E",
+        "color2": "#567688",
+        "color3": "#C2C2BA",
+        "color4": "#3C6A84",
+        "color5": "#9BA6A7",
+        "color6": "#78A8C3",
+        "color7": "#c6d3d8",
+        "color8": "#283431",
+        "color9": "#7ec2de",
+        "color10": "#619dbf",
+        "color11": "#ffffd9",
+        "color12": "#418db8",
+        "color13": "#b4e9ed",
+        "color14": "#87e0ff",
+        "color15": "#f3ffff"
+    }
+}

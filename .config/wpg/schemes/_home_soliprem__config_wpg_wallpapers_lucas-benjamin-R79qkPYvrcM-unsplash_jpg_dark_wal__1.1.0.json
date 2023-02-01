@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lucas-benjamin-R79qkPYvrcM-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#00041E",
+        "foreground": "#c2ffff",
+        "cursor": "#c2ffff"
+    },
+    "colors": {
+        "color0": "#00041E",
+        "color1": "#DF1E56",
+        "color2": "#614F69",
+        "color3": "#9B0637",
+        "color4": "#096993",
+        "color5": "#B3345A",
+        "color6": "#56698D",
+        "color7": "#92c7d5",
+        "color8": "#010b4f",
+        "color9": "#ff1668",
+        "color10": "#825a94",
+        "color11": "#d00145",
+        "color12": "#018cc9",
+        "color13": "#f7346e",
+        "color14": "#6183c6",
+        "color15": "#c2ffff"
+    }
+}

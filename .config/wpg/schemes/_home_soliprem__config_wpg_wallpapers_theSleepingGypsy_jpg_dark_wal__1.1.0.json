@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/theSleepingGypsy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191612",
+        "foreground": "#fffff8",
+        "cursor": "#fffff8"
+    },
+    "colors": {
+        "color0": "#191612",
+        "color1": "#4087A5",
+        "color2": "#33708D",
+        "color3": "#C99565",
+        "color4": "#377B9E",
+        "color5": "#457A92",
+        "color6": "#5696AB",
+        "color7": "#c9cac0",
+        "color8": "#362f26",
+        "color9": "#44b5e5",
+        "color10": "#3596c3",
+        "color11": "#ffc06f",
+        "color12": "#39a4db",
+        "color13": "#4ba3cb",
+        "color14": "#5fcbef",
+        "color15": "#fffff8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Desert_Highway.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181510",
+        "foreground": "#fffff4",
+        "cursor": "#fffff4"
+    },
+    "colors": {
+        "color0": "#181510",
+        "color1": "#8F8673",
+        "color2": "#7E8178",
+        "color3": "#B9AB9A",
+        "color4": "#A29D91",
+        "color5": "#BBB4A5",
+        "color6": "#92948D",
+        "color7": "#d8d1c7",
+        "color8": "#362f23",
+        "color9": "#cab484",
+        "color10": "#a9b78b",
+        "color11": "#ffe0b2",
+        "color12": "#e6d4a8",
+        "color13": "#fff2bf",
+        "color14": "#c5d3a4",
+        "color15": "#fffff4"
+    }
+}

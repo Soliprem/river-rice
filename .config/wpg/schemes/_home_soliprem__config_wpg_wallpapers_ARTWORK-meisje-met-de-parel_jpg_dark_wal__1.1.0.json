@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-meisje-met-de-parel.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040312",
+        "foreground": "#ffffeb",
+        "cursor": "#ffffeb"
+    },
+    "colors": {
+        "color0": "#040312",
+        "color1": "#A98D66",
+        "color2": "#7B827C",
+        "color3": "#D1A463",
+        "color4": "#517294",
+        "color5": "#D5B295",
+        "color6": "#7290B1",
+        "color7": "#eadcc9",
+        "color8": "#0b083e",
+        "color9": "#edba73",
+        "color10": "#8fb995",
+        "color11": "#ffd86c",
+        "color12": "#5a93cf",
+        "color13": "#ffe5aa",
+        "color14": "#81baf8",
+        "color15": "#ffffeb"
+    }
+}

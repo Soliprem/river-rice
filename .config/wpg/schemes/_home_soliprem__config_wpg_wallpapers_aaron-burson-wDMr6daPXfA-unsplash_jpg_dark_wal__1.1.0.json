@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/aaron-burson-wDMr6daPXfA-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b2928",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#1b2928",
+        "color1": "#F1E7D5",
+        "color2": "#DEDEE0",
+        "color3": "#BAC4B1",
+        "color4": "#D1D2D4",
+        "color5": "#BCBEC1",
+        "color6": "#BBC2C4",
+        "color7": "#e6e7e8",
+        "color8": "#2e4745",
+        "color9": "#ffffd5",
+        "color10": "#e4e4ff",
+        "color11": "#f0ffcd",
+        "color12": "#e3f5ff",
+        "color13": "#dbf2ff",
+        "color14": "#daffff",
+        "color15": "#fdffff"
+    }
+}

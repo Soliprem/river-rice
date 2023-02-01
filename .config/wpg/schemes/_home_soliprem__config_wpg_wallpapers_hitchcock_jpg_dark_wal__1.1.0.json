@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hitchcock.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090909",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#090909",
+        "color1": "#878787",
+        "color2": "#C6C6C6",
+        "color3": "#A8A8A8",
+        "color4": "#D7D7D7",
+        "color5": "#B9B9B9",
+        "color6": "#979797",
+        "color7": "#e9e9e9",
+        "color8": "#222222",
+        "color9": "#c09e9e",
+        "color10": "#ffe5e5",
+        "color11": "#f0c4c4",
+        "color12": "#ffe5e5",
+        "color13": "#ffd8d8",
+        "color14": "#d7b0b0",
+        "color15": "#ffffff"
+    }
+}

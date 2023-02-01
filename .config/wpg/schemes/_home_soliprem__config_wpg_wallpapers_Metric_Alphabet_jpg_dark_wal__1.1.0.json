@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Metric_Alphabet.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0d0e",
+        "foreground": "#ffffba",
+        "cursor": "#ffffba"
+    },
+    "colors": {
+        "color0": "#0e0d0e",
+        "color1": "#B88612",
+        "color2": "#92744E",
+        "color3": "#EBB91A",
+        "color4": "#ECB003",
+        "color5": "#D19705",
+        "color6": "#DDA204",
+        "color7": "#dec58c",
+        "color8": "#282528",
+        "color9": "#fcb30a",
+        "color10": "#cc9856",
+        "color11": "#fff910",
+        "color12": "#ffe601",
+        "color13": "#ffc601",
+        "color14": "#ffd401",
+        "color15": "#ffffba"
+    }
+}

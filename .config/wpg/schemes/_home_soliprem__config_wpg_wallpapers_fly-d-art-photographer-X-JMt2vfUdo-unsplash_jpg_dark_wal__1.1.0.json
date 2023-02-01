@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/fly-d-art-photographer-X-JMt2vfUdo-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070210",
+        "foreground": "#b5ffff",
+        "cursor": "#b5ffff"
+    },
+    "colors": {
+        "color0": "#070210",
+        "color1": "#570AA1",
+        "color2": "#180F9C",
+        "color3": "#5B19DF",
+        "color4": "#191DD8",
+        "color5": "#B336D5",
+        "color6": "#305CDB",
+        "color7": "#89d6e7",
+        "color8": "#19053e",
+        "color9": "#7101dc",
+        "color10": "#1508d6",
+        "color11": "#7010ff",
+        "color12": "#1016ff",
+        "color13": "#f234ff",
+        "color14": "#2c6fff",
+        "color15": "#b5ffff"
+    }
+}

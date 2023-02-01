@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/joao-silveira-ships-docking-in-portugal.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B1316",
+        "foreground": "#faffff",
+        "cursor": "#faffff"
+    },
+    "colors": {
+        "color0": "#0B1316",
+        "color1": "#9E7A6C",
+        "color2": "#12484C",
+        "color3": "#23505F",
+        "color4": "#2F728C",
+        "color5": "#595B60",
+        "color6": "#5191A8",
+        "color7": "#cdd1d4",
+        "color8": "#1b3037",
+        "color9": "#de977b",
+        "color10": "#116268",
+        "color11": "#256c83",
+        "color12": "#3099c2",
+        "color13": "#677188",
+        "color14": "#59c4ea",
+        "color15": "#faffff"
+    }
+}

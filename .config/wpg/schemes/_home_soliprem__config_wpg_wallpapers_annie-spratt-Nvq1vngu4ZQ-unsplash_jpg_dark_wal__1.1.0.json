@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/annie-spratt-Nvq1vngu4ZQ-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020A0F",
+        "foreground": "#f9ffff",
+        "cursor": "#f9ffff"
+    },
+    "colors": {
+        "color0": "#020A0F",
+        "color1": "#B0BCC3",
+        "color2": "#7E8379",
+        "color3": "#BDC1BD",
+        "color4": "#277885",
+        "color5": "#9DA9B1",
+        "color6": "#37909A",
+        "color7": "#d3d9dc",
+        "color8": "#05273d",
+        "color9": "#ccfaff",
+        "color10": "#a3ba8d",
+        "color11": "#dcffdc",
+        "color12": "#27a4b8",
+        "color13": "#b6e0fb",
+        "color14": "#39c6d5",
+        "color15": "#f9ffff"
+    }
+}

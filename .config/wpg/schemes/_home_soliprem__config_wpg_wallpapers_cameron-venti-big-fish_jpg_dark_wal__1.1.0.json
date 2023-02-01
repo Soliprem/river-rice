@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cameron-venti-big-fish.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081321",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#081321",
+        "color1": "#5C7888",
+        "color2": "#546473",
+        "color3": "#6A919D",
+        "color4": "#277189",
+        "color5": "#827D85",
+        "color6": "#4A9BAA",
+        "color7": "#c2c8cc",
+        "color8": "#102a4a",
+        "color9": "#68a0bf",
+        "color10": "#6082a2",
+        "color11": "#78c5dd",
+        "color12": "#2798bd",
+        "color13": "#ad91bd",
+        "color14": "#50d4ec",
+        "color15": "#f8ffff"
+    }
+}

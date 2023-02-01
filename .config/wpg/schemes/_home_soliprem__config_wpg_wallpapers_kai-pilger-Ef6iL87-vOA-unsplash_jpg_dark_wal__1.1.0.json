@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/kai-pilger-Ef6iL87-vOA-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c0f",
+        "foreground": "#f6fdff",
+        "cursor": "#f6fdff"
+    },
+    "colors": {
+        "color0": "#0c0c0f",
+        "color1": "#3C4356",
+        "color2": "#4E5465",
+        "color3": "#4D546A",
+        "color4": "#384586",
+        "color5": "#67728C",
+        "color6": "#79859C",
+        "color7": "#bfc4cc",
+        "color8": "#22222b",
+        "color9": "#445279",
+        "color10": "#59678e",
+        "color11": "#586795",
+        "color12": "#3c51ba",
+        "color13": "#768dc5",
+        "color14": "#8ba7dc",
+        "color15": "#f6fdff"
+    }
+}

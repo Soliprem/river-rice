@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hongyadong.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0a0e",
+        "foreground": "#c9e8ff",
+        "cursor": "#c9e8ff"
+    },
+    "colors": {
+        "color0": "#0c0a0e",
+        "color1": "#A95442",
+        "color2": "#5B5457",
+        "color3": "#974D30",
+        "color4": "#2F4D5F",
+        "color5": "#4C3A47",
+        "color6": "#2B3649",
+        "color7": "#95acc0",
+        "color8": "#241e2b",
+        "color9": "#eb6346",
+        "color10": "#81616f",
+        "color11": "#d15e31",
+        "color12": "#336684",
+        "color13": "#6b4260",
+        "color14": "#304466",
+        "color15": "#c9e8ff"
+    }
+}
