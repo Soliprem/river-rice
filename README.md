@@ -6,3 +6,5 @@ This is just my river dotfiles. Enjoy! (remember to add ~/.local/bin to the $PAT
 ![img4](screenshots/screenshot6.png)
 ![img5](screenshots/screenshot7.png)
 ![img6](screenshots/screenshot8.png)
+![img7](screenshots/screenshot9.png)
+![img8](screenshots/screenshot10.png)
