@@ -31,7 +31,7 @@
         "墳"
       ]
     },
-    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+    "on-click": "pamixer -t && notify-volume",
     "on-scroll-up": "pamixer -i 5 && notify-volume",
     "on-scroll-down": "pamixer -d 5 && notify-volume",
   },
@@ -167,7 +167,7 @@
     "on-click-middle": "notify-status",
   },
   "custom/launcher": {
-    "format": " ",
+    "format": " ",
     "on-click": "rofi -show run",
     "on-click-right": "killall rofi"
   },

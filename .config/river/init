@@ -223,7 +223,8 @@ riverctl spawn "waybar-restart"
 riverctl spawn "pipewire-pulse"
 riverctl spawn "wireplumber"
 # Sets wallpaper and launches bar
-riverctl spawn "swaybg -i $HOME/.config/wpg/.current"
+#riverctl spawn "swaybg -i $HOME/.config/wpg/.current"
+riverctl spawn "wpg -m"
 # Starts music player daemon and button support
 riverctl spawn "mpd"
 riverctl spawn "mpd-notification -m ~/Music"

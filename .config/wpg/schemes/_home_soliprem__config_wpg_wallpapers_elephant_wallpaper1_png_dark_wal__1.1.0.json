@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/elephant_wallpaper1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#ffffe7",
+        "cursor": "#ffffe7"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#989D28",
+        "color2": "#8A9427",
+        "color3": "#B5B82B",
+        "color4": "#7E8448",
+        "color5": "#B8BA5F",
+        "color6": "#B6B892",
+        "color7": "#e3e4bd",
+        "color8": "#191919",
+        "color9": "#d1d827",
+        "color10": "#bdcc26",
+        "color11": "#f9fe29",
+        "color12": "#aeb850",
+        "color13": "#ffff69",
+        "color14": "#ffffa8",
+        "color15": "#ffffe7"
+    }
+}
